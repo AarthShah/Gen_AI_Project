@@ -38,6 +38,7 @@ else:
     if page=="Chat":
         if st.session_state.welcome_message_status==False:
             message=home_page()
+            print(message)
             first_chat_message(message)
         else:
             chat_screen()

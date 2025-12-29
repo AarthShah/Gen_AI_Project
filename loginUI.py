@@ -28,8 +28,6 @@ def login_ui():
             st.rerun()
 
 
-
-
 def signup_ui():
         st.header("Signup Page")
         new_username1 = st.text_input("Choose a Username")
@@ -43,7 +41,7 @@ def signup_ui():
 
 
 def login_completed_sidebar():
-    st.sidebar.title("You are logged in.")
+    st.sidebar.title(f"You are logged in . {st.session_state.username}")
     page = st.sidebar.radio("# Go to", ["Chat",  "Logout"])
     return page
 

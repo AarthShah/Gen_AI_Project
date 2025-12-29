@@ -2,8 +2,6 @@ import streamlit as st
 import time
 
 
-
-
 def home_page():
     st.write(f"# Hey {st.session_state.username} \n \t Welcome TO RISEY Ai..^_^")
     st.write(" ")
