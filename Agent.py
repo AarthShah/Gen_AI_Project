@@ -19,7 +19,12 @@ def chat_model(messages):
     st.session_state.conversation.append({"role": "user", "content": messages})
     result=agent.invoke({"messages": st.session_state.conversation})
     print("Agent: ", result['messages'][-1].content)
+    st.session_state.conversation.append({"role":"assistant", "content": result['messages'][-1].content})
     return result['messages'][-1].content
+
+# def get_chat_history():
+#     print(Conversation)
+#     return
 
 if __name__ == "__main__":
     Conversation=[]
@@ -27,3 +32,7 @@ if __name__ == "__main__":
         Conversation.append({"role": "user", "content": input("User: ")})
         result=agent.invoke({"messages": Conversation})
         print("Agent: ", result['messages'][-1].content)
+        print(result)
+        Conversation.append({"role":"assistant", "content": result['messages'][-1].content})
+        # Conversation=[result["messages"]]
+        # get_chat_history()

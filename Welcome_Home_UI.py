@@ -9,8 +9,10 @@ def home_page():
     st.write(" ")
     st.write(" ")
     st.write(" ")
-    first_message=st.text_area("### Start the Conversation ...", height=200)
+    # first_message=st.text_area("### Start the Conversation ...", height=200)
     st.session_state.welcome_message_status=True
-    return first_message
+    time.sleep(1)
+    # return first_message
+    # st.button("Start..")
 
 

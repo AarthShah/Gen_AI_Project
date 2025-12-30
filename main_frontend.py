@@ -37,11 +37,13 @@ else:
     page=st.session_state.current_page=login_completed_sidebar()
     if page=="Chat":
         if st.session_state.welcome_message_status==False:
-            message=home_page()
-            print(message)
-            first_chat_message(message)
-        else:
-            chat_screen()
+            home_page()
+            st.rerun()
+        #     if message:
+        #         print(message)
+        #         first_chat_message(message)
+        # else:
+        chat_screen()
             
 
 
