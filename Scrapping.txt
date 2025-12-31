@@ -1,6 +1,6 @@
 About Sunbeam 
  
- At Sunbeam we believe retaining a competitive edge is imperative for any individual in today's professional world. Companies are restructuring their organizations & reengineering their business processes. Not only have the challenges become more demanding, but also the rewards of staying at the forefront seem to be promising.In this scenario, technical & personal skills which provide effective solutions & time critical support are of principal significance for the long term growth of professionals. Sunbeam's expertise in effectively delivering training, solutions & services has made it a favored institution to many students & professionals focused on an aggressive career growth strategy.Sunbeam's proven track record in bringing about effective transformations in individuals is backed by a solid understanding of the rapidly changing needs of the industry & the global business scenario. Sunbeam's success has been built on its comprehensively researched, innovative training methodologies, deployment of technology and an emphasis on transformational & industry-relevant programs offering value-added services to its clients. A young and dynamic management team and carefully recruited and trained staff members drive Sunbeam's business vision & have established strong credentials in a short span of time.Sunbeam Group's expertise in effectively delivering training & solutions has made it a favored associate to many establishments focused on aggressive growth strategies. Since it's humble beginnings in the late 90's Sunbeam Group has today, evolved into a multi-technology, multi-location competency center with IT professionals capable of delivering high-end technological training & solutions in diverse modes. Their expertise in various IT fields has made Sunbeam Group a premium turnkey solution provider.SunBeam IT Park, Hinjawadi campus is located in Phase 2 area of Rajiv Gandhi IT Park Hinjawadi. It isjust opposite to Infosys- Phase 2 campus. The institute isspread across a campus of 70,000 sq ft.The campus houses aworld class academic and computing infrastructure. The campus consists of state-of-the-art classrooms each equipped with ergonomic seating arrangements, air conditioning, LCD projection system, public address system and soothing interiors conducive to learning.The computing infrastructure consists of state-of-the-art labs designed with utmost care to enable students to spend prolonged hours in their practicals. Computer Labs have been designed to enable classroom approach making concurrent conduct of lectures and practicals (Online Training) possible.The campus also houses a well equipped library, reading rooms, the administrative blocks, server rooms, staff rooms, canteen etc. The institute has tie-ups with private third party hostels in the close vicinity which provide student accommodation on sharing basis.'Sunbeam Chambers', Plot No.R/2, Market Yard Road, Behind Hotel Fulora, Gultekdi,    Pune - 411 037. MH-INDIA."Sunbeam IT Park", Second Floor, Phase 2 of Rajiv Gandhi Infotech Park,Hinjawadi, Pune - 411057, MH-INDIASunbeam. © 2025. All Rights Reserved.Powered by authlinQ
+ At Sunbeam we believe retaining a competitive edge is imperative for any individual in today's professional world. Companies are restructuring their organizations & reengineering their business processes. Not only have the challenges become more demanding, but also the rewards of staying at the forefront seem to be promising.In this scenario, technical & personal skills which provide effective solutions & time critical support are of principal significance for the long term growth of professionals. Sunbeam's expertise in effectively delivering training, solutions & services has made it a favored institution to many students & professionals focused on an aggressive career growth strategy.Sunbeam's proven track record in bringing about effective transformations in individuals is backed by a solid understanding of the rapidly changing needs of the industry & the global business scenario. Sunbeam's success has been built on its comprehensively researched, innovative training methodologies, deployment of technology and an emphasis on transformational & industry-relevant programs offering value-added services to its clients. A young and dynamic management team and carefully recruited and trained staff members drive Sunbeam's business vision & have established strong credentials in a short span of time.Sunbeam Group's expertise in effectively delivering training & solutions has made it a favored associate to many establishments focused on aggressive growth strategies. Since it's humble beginnings in the late 90's Sunbeam Group has today, evolved into a multi-technology, multi-location competency center with IT professionals capable of delivering high-end technological training & solutions in diverse modes. Their expertise in various IT fields has made Sunbeam Group a premium turnkey solution provider.SunBeam IT Park, Hinjawadi campus is located in Phase 2 area of Rajiv Gandhi IT Park Hinjawadi. It isjust opposite to Infosys- Phase 2 campus. The institute isspread across a campus of 70,000 sq ft.The campus houses aworld class academic and computing infrastructure. The campus consists of state-of-the-art classrooms each equipped with ergonomic seating arrangements, air conditioning, LCD projection system, public address system and soothing interiors conducive to learning.The computing infrastructure consists of state-of-the-art labs designed with utmost care to enable students to spend prolonged hours in their practicals. Computer Labs have been designed to enable classroom approach making concurrent conduct of lectures and practicals (Online Training) possible.The campus also houses a well equipped library, reading rooms, the administrative blocks, server rooms, staff rooms, canteen etc. The institute has tie-ups with private third party hostels in the close vicinity which provide student accommodation on sharing basis.'Sunbeam Chambers', Plot No.R/2, Market Yard Road, Behind Hotel Fulora, Gultekdi,    Pune - 411 037. MH-INDIA."Sunbeam IT Park", Second Floor, Phase 2 of Rajiv Gandhi Infotech Park,Hinjawadi, Pune - 411057, MH-INDIASunbeam. ï¿½ 2025. All Rights Reserved.Powered by authlinQ
  
  Pre-Cat(Preparatory Course for Entrance)
  
@@ -25,3 +25,2133 @@ Pre-CAT Batches schedule:
  row Per-cat : ['1', 'PM-48', '160 Hrs', '16-Feb-2026', '14-Apr-2026', '9:00 AM  To  1:00 PM', '17600/-']
 row Per-cat : ['2', 'OM-66', '160 Hrs', '25-Feb-2026', '16-May-2026', '2:00 PM  To  6:00 PM', '15500/-']
 row Per-cat : ['3', 'PH-39', '160 Hrs', '09-Mar-2026', '05-May-2026', '9:00 AM  To  1:00 PM', '17600/-']
+
+ 
+ # Modular Courses 
+==================================================
+# Apache Spark Mastery - Data Engineering With PySpark 
+ 
+--- Target Audience: ---
+Data Engineers, Python Developers, Freshers
+
+--- Syllabus: ---
+Section 1: Spark Architecture & Internals
+- Distributed Computing Fundamentals
+  - RDD lineage, DAG scheduler, lazy evaluation
+  - Cluster managers overview
+- Spark 4.x Updates
+  - Adaptive Query Execution (AQE) enhancements
+  - Catalyst optimizer improvements
+- Performance Tuning
+  - Joins
+  - Partitioning, broadcast variables
+  - Memory management
+Section 2: PySpark DataFrames & SQL
+- Data Manipulation
+  - Complex types (JSON, arrays, maps)
+  - Window functions, pivot tables, UDFs/Pandas UDFs
+- Spark SQL Deep Dive
+  - Temp views, catalog API, Hive metastore integration
+  - SQL syntax for Delta Lake operations
+- Execution Plans
+  - Reading `explain()` output
+  - Predicate pushdown, partition pruning
+Section 3: Incremental Data Processing & Apache Kafka
+- Structured Streaming
+  - Event-time processing, watermarking, state management
+  - Kafka integration (source/sink)
+- Delta Lake Essentials
+  - ACID transactions
+  - Schema evolution
+Section 4: Spark Optimizations
+- Catalyst Internals
+  - Logical vs. physical plans
+  - Custom optimization extensions
+- Performance Best Practices
+  - File formats (Parquet/Delta)
+  - Resource allocation (executors/cores)
+Section 5: Databricks Lakehouse Platform
+- Lakehouse fundamentals
+- Workspace Navigation
+  - DBFS, clusters, notebooks
+- Delta Lake UI
+  - Viewing table history/schema
+- Data Governance
+  - Unity Catalog basics (no Admin tasks)
+Section 6: Apache Kafka Fundamentals  
+- Architecture
+  - Brokers, topics, partitions, consumer groups
+- Spark-Kafka Integration
+  - Structured Streaming with Kafka
+  - Job execution
+Section 7: Spark ML Introduction
+- MLlib Workflow
+  - Transformers vs. estimators, pipelines
+  - Feature engineering (VectorAssembler, StringIndexer)
+- Model Training
+  - Regression demo (no hyperparameter tuning)
+Section 8: Capstone Project
+- Pipeline implementation
+- Domain Examples: IoT monitoring, retail analytics
+
+--- Prerequisites: ---
+1. Python: Language Fundamentals, Functions, Collections, Pandas, ...
+2. SQL: CRUD Operations, Group By, Joins, Analytical queries, ï¿½
+3.Good to have: Linux basics, Hadoop/Hive knowledge beneficial
+
+--- Tools & Setup: ---
+- Local Installation: Spark 4.x, Java 11, Python 3.10  
+- Cloud: Databricks Community/Free Edition
+
+--- Outcome: ---
+ï¿½ Master PySpark DataFrames/SQL for batch & stream processing
+ï¿½ Build optimized pipelines using Catalyst insights
+ï¿½ Understand Spark job execution internals
+ï¿½ Understand Apache Kafka and Integrate with Spark
+ï¿½ Hands-on implementation of capstone project
+ï¿½ Certification-ready skills
+
+--- Important Notes: ---
+1. Developer-Centric Focus:
+- Covers PySpark application development (coding, debugging, optimization).
+- Excludes: Cluster administration, infrastructure setup (YARN/K8s), or Spark cluster tuning.
+2. Machine Learning Scope:
+- Only introductory-level Spark ML (pipeline structure, basic concept).
+- Excludes: Advanced ML concepts (hyperparameter tuning, etc), DL frameworks, or MLOps.
+3. Language & Environment:
+- PySpark (Python API) only ï¿½ Scala/Java/R APIs not covered.
+- Databricks usage focuses on developer work, not account/admin management.
+4. Kafka Integration:
+- Covers Spark-as-Consumer/Producer ï¿½ not professional Kafka cluster setup, security, or Streams API.
+5. Infrastructure Assumptions:
+- All labs use local/standalone mode or Databricks Community Edition.
+
+--- Video Availability till date: ---
+17th Nov 25
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'Spark-O-04', '16-Aug-2025', '17-Sep-2025', '7:00 PM  To  9:00 PM']
+Schedule : Mon-Sat
+==================================================
+# Aptitude 
+ 
+--- Target Audience: ---
+ï¿½ Students
+ï¿½ Fresher's
+
+--- Course Contents: ---
+ï¿½ English -  (nouns,pronouns,verbs,adjectives,adverbs,prepositions,conjuction,articles,Tenses, Voice,Direct Indirect Speech, Idioms, Synonyms & Antonyms, Reading Comprehension )
+ï¿½ Reasoning - (Analogy, Coding and Decoding, Syllogism, Blood Relations, Seating Arrangements, Puzzles, Directions, Data Sufficiency, Numerical Series, Ranking & Ordering)
+ï¿½ Quantitative - (Number System, Percentage, Profit and Loss, Ratio & Proportion, Partnership, Average, Ages, Mixture & Alligation, Simple Interest & Compound Interest, cyclicity and remainder, Time Speed & Distance, Trains Boats & Streams, Time & Work, Wages (man Days), Pipes & Cisterns, Permutations & Combinations, Probability, Problems on Ages, Surds And Indices)
+ï¿½ Test Series
+
+--- Recorded Videos: ---
+Recorded videos will be accessible for up to 7 Days from the date of upload.
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'Aptitude-O-02', '02-Feb-2026', '23-Feb-2026', '6:00 PM  To  9:00 PM']
+Schedule : Mon - Fri
+==================================================
+# C++ 
+ 
+--- Target Audience: ---
+ï¿½ Students
+ï¿½ Fresher's
+ï¿½ Working professionals 
+
+--- Pre-requisites: ---
+ï¿½ C Programming
+
+--- Syllabus: ---
+ï¿½ C++ Introduction
+ï¿½ Namespace
+ï¿½ C++ Language Features
+ï¿½ Exception Handling
+ï¿½ OOPS Concepts
+ï¿½ Dynamic Memory Allocation, Destructor & Copy Constructor
+ï¿½ Friend Function & Operator Overloading
+ï¿½ How To Share Data Between Objects
+ï¿½ Inheritance & Polymorphism
+ï¿½ Virtual Function, Abstract Class & Interface
+ï¿½ STL
+ï¿½ FILE I/O
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'CPP- O-07', '23-Jan-2026', '20-Feb-2026', '5:00 PM  To  8:00 PM']
+Schedule : Weekdays - (Mon-Fri)
+==================================================
+# Core Java 
+ 
+--- Target Audience: ---
+ï¿½ Students
+ï¿½ Fresher's
+ï¿½ Working professionals 
+
+--- Syllabus: ---
+ï¿½ Java Language Fundamentals
+Java language features
+Overview of JDK, JRE and JVM
+Data types and wrapper classes
+Package, path and classpath
+Arrays, Enum, jar file
+ï¿½ Java language features
+ï¿½ Overview of JDK, JRE and JVM
+ï¿½ Data types and wrapper classes
+ï¿½ Package, path and classpath
+ï¿½ Arrays, Enum, jar file
+ï¿½ OOPs Concept
+Class, reference, instance
+Constructor chaining
+Object class
+Static initializer block
+Association and inheritance
+Polymorphism and dynamic method dispatch
+Abstract class and Interface
+ï¿½ Class, reference, instance
+ï¿½ Constructor chaining
+ï¿½ Object class
+ï¿½ Static initializer block
+ï¿½ Association and inheritance
+ï¿½ Polymorphism and dynamic method dispatch
+ï¿½ Abstract class and Interface
+ï¿½ Exception Handling
+Error and exception
+Checked and unchecked Exception
+Try-with-resource
+Multi-catch block
+Custom exception
+Chained exceptions
+ï¿½ Error and exception
+ï¿½ Checked and unchecked Exception
+ï¿½ Try-with-resource
+ï¿½ Multi-catch block
+ï¿½ Custom exception
+ï¿½ Chained exceptions
+ï¿½ Functional Programming Fundamentals
+Nested and local class
+Anonymous inner class
+Functional interface
+Lambda expression
+Method and constructor references
+Constructor Reference
+ï¿½ Nested and local class
+ï¿½ Anonymous inner class
+ï¿½ Functional interface
+ï¿½ Lambda expression
+ï¿½ Method and constructor references
+ï¿½ Constructor Reference
+ï¿½ Generics
+Boxing/Auto-Boxing and Unboxing/Auto-Unboxing
+Parameterized type
+Bounded type parameter
+Wild Card and its type
+Generic method
+ï¿½ Boxing/Auto-Boxing and Unboxing/Auto-Unboxing
+ï¿½ Parameterized type
+ï¿½ Bounded type parameter
+ï¿½ Wild Card and its type
+ï¿½ Generic method
+ï¿½ String Handling
+ Overview of UNICODE
+String, StringBuffer and StringBuilder
+StringTokenizer
+Regular expression
+ï¿½  Overview of UNICODE
+ï¿½ String, StringBuffer and StringBuilder
+ï¿½ StringTokenizer
+ï¿½ Regular expression
+ï¿½ Collection Framework
+Comparable versus Comparator
+List, ArrayList, Vector
+Set, TreeSet
+Hashing
+HashSet, Hashtable and HashMap
+Java 8 Streams
+ï¿½ Comparable versus Comparator
+ï¿½ List, ArrayList, Vector
+ï¿½ Set, TreeSet
+ï¿½ Hashing
+ï¿½ HashSet, Hashtable and HashMap
+ï¿½ Java 8 Streams
+ï¿½ Multithreading
+ Advantages & issues of process & thread
+Thread class and Runnable
+Thread States, life cycle
+Race condition, deadlock, monitor
+Synchronization and Object class
+ï¿½  Advantages & issues of process & thread
+ï¿½ Thread class and Runnable
+ï¿½ Thread States, life cycle
+ï¿½ Race condition, deadlock, monitor
+ï¿½ Synchronization and Object class
+ï¿½ File IO 
+Path basics
+Text file and binary file processing
+Serialization and deserialization
+SerialVersionUID
+ï¿½ Path basics
+ï¿½ Text file and binary file processing
+ï¿½ Serialization and deserialization
+ï¿½ SerialVersionUID
+ï¿½ Reflection
+Metadata and its application
+java.lang.Class class
+Overview of reflection classes and interfaces
+Dynamic method invocation
+ï¿½ Metadata and its application
+ï¿½ java.lang.Class class
+ï¿½ Overview of reflection classes and interfaces
+ï¿½ Dynamic method invocation
+
+--- Pre-requisites: ---
+ï¿½ OOP concepts: Class, Object, overloading, constructor, inheritance and virtual function.
+
+--- Software Setup: ---
+ï¿½ SDK: Open JDK 1.8
+ï¿½ Editor: MS VS Code
+ï¿½ IDE: Eclipse
+
+--- Student Feedback: ---
+Rohan Parmane: Your dedication and passion for teaching truly shine through in every lesson. Your ability to engage students and make complex concepts understandable is impressive. The positive environment you create in the classroom fosters both learning and growth. Keep up the excellent work Your thoughtful approach and dedication are greatly appreciated by me.
+Ketan Kore: I've had the pleasure of learning Core Java under the tutelage of Sir, and I must say that he's the best mentor I've had. Their thorough understanding of Java fundamentals, combined with their ability to present complex topics in a straight forward and understandable manner, has been quite helpful in my learning process.
+Ketan Kore: Your explanations are always clear and well-structured, which helps grasp difficult concepts more easily.Nice teaching, best interaction with us, great at doubt solving.
+Rohan Parmane: excellent I will miss Sunbeam Teaching. Sir taught us very well. we got so much knowledge about java in just a little time. sir explained each concept very easily and understandably. Thank you sir for your valuable guidance.
+
+--- Recorded Videos: ---
+Recorded videos will be accessible for up to 7 Days from the date of upload.
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'CJ-O-17', '23-Jan-2026', '20-Feb-2026', '9:00 AM  To  1:00 PM']
+Schedule : Weekdays - (Mon-Fri)
+==================================================
+# Data Structures And Algorithms 
+ 
+--- Target Audience: ---
+ï¿½ Students
+ï¿½ Fresher's
+ï¿½ Working professionals
+
+--- Syllabus: ---
+ï¿½ Algorithm Analysis:
+Time complexity
+Space complexity
+ï¿½ Time complexity
+ï¿½ Space complexity
+ï¿½ Linked List:
+Array advantages and disadvantages
+Linked List concept
+Linear Singly Linked List
+Circular Singly Linked List
+Linear and Circular Doubly Linked List
+Complexity analysis of Linked List operations
+ï¿½ Array advantages and disadvantages
+ï¿½ Linked List concept
+ï¿½ Linear Singly Linked List
+ï¿½ Circular Singly Linked List
+ï¿½ Linear and Circular Doubly Linked List
+ï¿½ Complexity analysis of Linked List operations
+ï¿½ Stack:
+Stack concept
+Stack using Array
+Stack using Linked List
+Expresion conversion & evaluation (prefix, infix and postfix)
+Parenthesis balancing
+Complexity analysis of Stack operations
+ï¿½ Stack concept
+ï¿½ Stack using Array
+ï¿½ Stack using Linked List
+ï¿½ Expresion conversion & evaluation (prefix, infix and postfix)
+ï¿½ Parenthesis balancing
+ï¿½ Complexity analysis of Stack operations
+ï¿½ Queue:
+Queue concept & types
+Queue using Array
+Queue using Linked List
+Complexity analysis of Queue operations
+ï¿½ Queue concept & types
+ï¿½ Queue using Array
+ï¿½ Queue using Linked List
+ï¿½ Complexity analysis of Queue operations
+ï¿½ Sorting:
+Selection sort
+Bubble sort
+Insertion sort
+Quick sort
+Merge sort
+Heap sort
+Complexity analysis of sorting algorithms
+ï¿½ Selection sort
+ï¿½ Bubble sort
+ï¿½ Insertion sort
+ï¿½ Quick sort
+ï¿½ Merge sort
+ï¿½ Heap sort
+ï¿½ Complexity analysis of sorting algorithms
+ï¿½ Searching:
+Linear Search
+Binary Search
+Hashing
+Complexity analysis of searching algorithms
+ï¿½ Linear Search
+ï¿½ Binary Search
+ï¿½ Hashing
+ï¿½ Complexity analysis of searching algorithms
+ï¿½ Tree:
+Tree concept & types
+Tree traversal (Inorder, Preorder and Postorder)
+Binary Search Tree (BST) implementation
+BST: add node, travsersal, delete node, balancing, BFS & DFS.
+Complexity analysis of BST algorithms
+ï¿½ Tree concept & types
+ï¿½ Tree traversal (Inorder, Preorder and Postorder)
+ï¿½ Binary Search Tree (BST) implementation
+ï¿½ BST: add node, travsersal, delete node, balancing, BFS & DFS.
+ï¿½ Complexity analysis of BST algorithms
+ï¿½  Graph:
+Graph concept & types
+Adjacency Matrix implementation
+Adjacency List implementation
+Spanning Tree algorithms: Primï¿½s MST, Kruskalï¿½s MST
+Shortest Path algorithms: Dijkstra, Bellaman Ford, Warshal Floyd
+Search algorithms: BFS, DFS, A* search
+Complexity analysis of Graph algorithms
+ï¿½ Graph concept & types
+ï¿½ Adjacency Matrix implementation
+ï¿½ Adjacency List implementation
+ï¿½ Spanning Tree algorithms: Primï¿½s MST, Kruskalï¿½s MST
+ï¿½ Shortest Path algorithms: Dijkstra, Bellaman Ford, Warshal Floyd
+ï¿½ Search algorithms: BFS, DFS, A* search
+ï¿½ Complexity analysis of Graph algorithms
+
+--- Pre-requisites: ---
+ï¿½ Java Programming: Class & Object, Generics, Java collections (Array list). 
+
+--- Outcome: ---
+ï¿½ Understand common data structures (array, linked list, stack & queue) and their applications.
+ï¿½ Learn advanced data structures (hashing, trees, heap & graphs) and their operations. 
+ï¿½ Implement data structures and algorithms using Java.
+ï¿½ Revise fundamentals for Data structure interviews.
+
+--- Software Setup: ---
+ï¿½ Any IDE & compiler for Java
+ï¿½ May use online editor
+
+--- Important Notes: ---
+ï¿½ Code along with trainer in live class.
+ï¿½ Assignments will be given for self practice.
+ï¿½ Line by line implementation of data structures in Java.
+ï¿½ Corresponding C++ & Python codes will be shared.
+ï¿½ Discussion of frequently asked interview questions.
+
+--- Student Feedback: ---
+ï¿½ Abhilash Kamble
+ï¿½ Abhishek Verma
+ï¿½ Ashish Mishra  
+ï¿½ Aniket Katte
+ï¿½ Tejas Jadhav
+ï¿½ Shubham Pate
+ï¿½ Bilal Pathan
+Excellent Teaching, concept clearance and doubt clearing. Thank you sir for taking this wonderful session. Before this session I have only theory knowledge but now I am comfortable in code and logic also.
+really enjoyed the approach of explaining DS. It was good. Cleared all the doubts which I have asked with no rush, maintained simplicity in teaching with each topics.
+I donï¿½t owe my professional success to my destiny, courage, luck, belief, confidence or fortune. I owe it to a wonderful scholar like you. Nothing can come close to the inspirational presence of an instructor like you in a studentï¿½s journey. You have no idea how important a role you play in shaping my research development, maybe we did not meet a lot, but those little encouragement words means a lot to me. I really enjoyed all of the readings and found they were diverse and inclusive. I learned a lot. Thank you for allowing us space to not only have dialogue but be creative within our assignments as well. I really learned some useful tips and tricks for DATA STRUCTURE AND ALGORITHMS which will help me in "Competitive Programming" as well. Thank you for being so encouraging and doing everything you can to keep us motivated and supported throughout our program. Your knowledge and leadership provide us with a priceless model for our own careers. Your diligence and direction have inspired my inner confidence to climb like a Tiger until I reach the pinnacle of my ambitions. One of the best decisions I had a fantastic time by taking your course in such Lock-Down period due to the COVID Pandemic. Thank you for loving your job so much! You are an amazing teacher! 
+It was an amazing course as I imagined. Because of Nilesh sir's lecture, I got depth knowledge of data structure and Iï¿½m sure this is more than enough to build my upcoming career. Sunbeam provides the best facilities of video lectures too and because of this facility, I personally got many profits if I forgot any concept I goes through these lectures and it will help me to understand these concepts. The enthusiasm which sunbeam provides always gives us good fruit. Thank you Sunbeam.
+The way of your explanation is excellent. I have learned first time Data structure and Algorithms but never felt tough in understanding at any moment. All the contents of data structures and algorithms learned very well and easily. Thank you very much, sir.  
+First of all, thank you for sharing your precious knowledge in a very efficient manner because even if I'm from none IT background I understood all things expertly. I'm sure that it will be very helpful throughout my career. Thank you ðŸ˜Š 
+The best thing about the course is that this course is very punctual about timing and syllabus. None of the single point is not skipped. and in learning time there is a motivated environment. Nilesh sir's way of teaching is awesome now I am big fan of sir. As I am a last year student many of the concepts is not cleared but after this course, I have that confidence that I am really good in DSA. Thank you nilesh sir and Sunbeam Team......!!! 
+all sessions are very well explained, understood very well, it will surely help me in dac course as data structure is a part of syllabus, the way of teaching was interesting, i enjoyed learning during course. Thanks a lot. 
+Best approach to learn Ds is to learn through the basic and to learn basics is know basic .. the whole process by Nilesh sir made me understand Data structure in very simple way and to made an environment where we had an open discussion on of doubts without thinking whether to ask or not... Thanks a lot sir as beginner in data structure you have made me expert in ds what I need is now a paper work. So thanks a lot sir and thanks to vishal sir for helping me solve the basic problems.
+
+--- Getting Started with DS... ---
+
+--- Recorded Videos: ---
+Recorded videos will be accessible for up to 7 Days from the date of upload.
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'DSA-O-12', '29-Jan-2026', '20-Feb-2026', '5:00 PM  To  8:00 PM']
+Schedule : Weekdays - (Mon-Sat)
+==================================================
+# Dev Ops 
+ 
+--- Syllabus ---
+ï¿½ DevOps
+Introduction to DevOps
+SDLC and Agile fundamentals
+DevOps Lifecyle
+Introduction to the Tools used in DevOps Lifecyle
+ï¿½ Introduction to DevOps
+ï¿½ SDLC and Agile fundamentals
+ï¿½ DevOps Lifecyle
+ï¿½ Introduction to the Tools used in DevOps Lifecyle
+ï¿½ Linux
+Installation and configuration using VM
+Booting
+File System
+Working with Text files
+Archiving and compressing files
+User and Group management
+File Permissions
+Package management
+Systemd management
+ï¿½ Installation and configuration using VM
+ï¿½ Booting
+ï¿½ File System
+ï¿½ Working with Text files
+ï¿½ Archiving and compressing files
+ï¿½ User and Group management
+ï¿½ File Permissions
+ï¿½ Package management
+ï¿½ Systemd management
+ï¿½ Foundation of VCS
+ï¿½ What is Git?
+ï¿½ Git Workflow
+ï¿½ Git Internals
+ï¿½ Demystifying branching
+ï¿½ Collaboration with GitHub
+ï¿½ Virtualization
+ï¿½ Hardware virtualization vs Containerization
+ï¿½ Docker fundamentals
+ï¿½ Architecture
+ï¿½ Installation and configuration
+ï¿½ Image management
+ï¿½ Container management
+ï¿½ Docker network
+ï¿½ Persisting data with Docker volumes
+ï¿½ Container Orchestration with Docker Swarm
+ï¿½ Introducing Kubernetes and its features
+ï¿½ Architecture
+ï¿½ Installation of configuration of Kubernetes cluster
+ï¿½ Pod management
+ï¿½ Secrets and ConfigMaps
+ï¿½ Service and Networking
+ï¿½ State persistence with PersistentVolumes and PersistentVolumeClaims
+ï¿½ Observability
+ï¿½ Probes
+ï¿½ Introduction to CI/CD pipeline
+ï¿½ Jenkins cluster installation and configuration
+ï¿½ Configuration of pipeline
+ï¿½ Scripted pipeline
+ï¿½ Implementing security with Jenkins
+ï¿½ Setting up notifications
+ï¿½ Using Jenkinsfile
+ï¿½ Introduction to Cloud
+ï¿½ What is AWS?
+ï¿½ AWS Services
+Compute Services:
+EC2 instance
+VPC
+Lambda
+Storage Services: S3
+Database Services: RDS (MySQL)
+DevOps Services: CodeCommit, CodeBuild, CodeDeploy, X-Ray
+Container Services: ECS, EKS
+ï¿½ Compute Services:
+EC2 instance
+VPC
+Lambda
+ï¿½ EC2 instance
+ï¿½ VPC
+ï¿½ Lambda
+ï¿½ Storage Services: S3
+ï¿½ Database Services: RDS (MySQL)
+ï¿½ DevOps Services: CodeCommit, CodeBuild, CodeDeploy, X-Ray
+ï¿½ Container Services: ECS, EKS
+ï¿½ Infrastructure as a Code
+ï¿½ Installation and Configuration
+ï¿½ Terraform foundation
+ï¿½ Workflow
+ï¿½ Terraform modules
+ï¿½ Implementing and maintaining states
+ï¿½ HCP Terraform
+ï¿½ Introduction to Ansible
+ï¿½ Pull vs Push method
+ï¿½ Installation and Configuration
+ï¿½ Architecture and Design of Ansible
+ï¿½ Diving into playbooks
+ï¿½ Using Ansible with cloud
+ï¿½ Using Ansible with containers
+ï¿½ Modules and plugins
+Week 1: Linux
+Week 2: Git
+Week 3: Docker
+Week 4: Kubernetes
+Week 5: Jenkins
+Week 6: AWS
+Week 7: Terraform
+Week 8: Ansible
+
+--- Prerequisites ---
+ï¿½ Basic Linux administration
+ï¿½ Knowledge of any development stack
+ï¿½ Knowledge of testing tools like Selenium and JUnit
+ï¿½ Knowledge of build tools like Ant/Gradle/Maven
+
+--- Diwali Vacation Break: ---
+Diwali Holidays are scheduled from 17th October 2025 to 31st October 2025.
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'Dev Ops-O-06', '15-Sep-2025', '20-Nov-2025', '9:00 PM  To  11:00 PM']
+Schedule : Mon - Thu
+==================================================
+# Dream LLM 
+ 
+--- Prerequisite: ---
+- Basic to intermediate Python programming (loops, functions, lists, dictionaries, basics of classes)
+- Basic understanding of ML concepts (what a model, training, and loss mean)
+- High-level math intuition: addition, subtraction, multiplication and division    
+- Familiarity with PyTorch or NumPy is helpful but not mandatory
+- A laptop with 8 GB RAM (GPU recommended but not required)
+- Curiosity and willingness to learn how LLMs work internally (not just use APIs)
+
+--- Syllabus: ---
+ï¿½ Introduction to LLM
+What is large language model?
+Types of LLM
+Applications of LLM
+Requirements of DreamLLM
+ï¿½ What is large language model?
+ï¿½ Types of LLM
+ï¿½ Applications of LLM
+ï¿½ Requirements of DreamLLM
+ï¿½ Mathematics and Pytorch required for LLM
+Vectors
+Matrices
+Tensors
+Linear Algebra
+All maths topics with Pytorch implementation
+ï¿½ Vectors
+ï¿½ Matrices
+ï¿½ Tensors
+ï¿½ Linear Algebra
+ï¿½ All maths topics with Pytorch implementation
+ï¿½ Introduction to Deep Learning
+Difference between ML and DL
+Neural network architecture
+Introduction to forward and backward propagation
+ï¿½ Difference between ML and DL
+ï¿½ Neural network architecture
+ï¿½ Introduction to forward and backward propagation
+ï¿½ Why should you build DreamLLM?
+Strategies of building LLM
+Fine tuning vs creating custom LLM
+Supervised (labelled) vs unsupervised (unlabelled) training custom LLM
+Architecture of DreamLLM
+ï¿½ Strategies of building LLM
+ï¿½ Fine tuning vs creating custom LLM
+ï¿½ Supervised (labelled) vs unsupervised (unlabelled) training custom LLM
+ï¿½ Architecture of DreamLLM
+ï¿½ Transformers
+Relationship between LLM and transformer
+Introduction to transformers
+Transformer architecture
+Types of transformers
+ï¿½ Relationship between LLM and transformer
+ï¿½ Introduction to transformers
+ï¿½ Transformer architecture
+ï¿½ Types of transformers
+ï¿½ Understanding data
+Data requirements to train DreamLLM
+Preprocessing the data
+Tokenization
+Custom tokenization
+Embeddings basics
+Byte pair encoding
+ï¿½ Data requirements to train DreamLLM
+ï¿½ Preprocessing the data
+ï¿½ Tokenization
+Custom tokenization
+Embeddings basics
+Byte pair encoding
+ï¿½ Custom tokenization
+ï¿½ Embeddings basics
+ï¿½ Byte pair encoding
+ï¿½ Processing data using sequence modelling
+Introduction to RNN (LSTM and GRU)
+Introduction and requirement of attention mechanism
+Implementing attention mechanism
+Self attention mechanism
+Single head
+Multi head
+ï¿½ Introduction to RNN (LSTM and GRU)
+ï¿½ Introduction and requirement of attention mechanism
+ï¿½ Implementing attention mechanism
+Self attention mechanism
+Single head
+Multi head
+ï¿½ Self attention mechanism
+ï¿½ Single head
+ï¿½ Multi head
+ï¿½ Creating LLM from scratch
+Deciding the layers, activation functions
+Implementing feed forward network
+Generating text using custom LLM
+ï¿½ Deciding the layers, activation functions
+ï¿½ Implementing feed forward network
+ï¿½ Generating text using custom LLM
+ï¿½ Fine tuning for further tasks
+Fine tuning the DreamLLM on labelled data
+Fine tuning the DreamLLM on unlabelled data
+Evaluation of DreamLLM
+ï¿½ Fine tuning the DreamLLM on labelled data
+ï¿½ Fine tuning the DreamLLM on unlabelled data
+ï¿½ Evaluation of DreamLLM
+ï¿½ Deploying the DreamLLM
+Use AWS cloud for deployment
+Automate the deployment using AWS DevOps tools
+ï¿½ Use AWS cloud for deployment
+ï¿½ Automate the deployment using AWS DevOps tools
+
+--- Outcomes: ---
+ï¿½ Theoretical Understanding
+Deep knowledge of mathematical foundations (Linear Algebra, Probability & Statistics, Optimization).
+Understanding key concepts in Machine Learning and Deep Learning.
+In-depth knowledge of Transformer architectures, Attention Mechanisms, and their variants (GPT, BERT, T5).
+ï¿½ Deep knowledge of mathematical foundations (Linear Algebra, Probability & Statistics, Optimization).
+ï¿½ Understanding key concepts in Machine Learning and Deep Learning.
+ï¿½ In-depth knowledge of Transformer architectures, Attention Mechanisms, and their variants (GPT, BERT, T5).
+ï¿½ Practical Skills
+Proficiency in Python and the use of deep learning frameworks like TensorFlow and PyTorch.
+Ability to implement, train, and fine-tune advanced neural network models.
+Skills in data preprocessing, feature extraction, and handling large datasets.
+ï¿½ Proficiency in Python and the use of deep learning frameworks like TensorFlow and PyTorch.
+ï¿½ Ability to implement, train, and fine-tune advanced neural network models.
+ï¿½ Skills in data preprocessing, feature extraction, and handling large datasets.
+ï¿½ Evaluation and Deployment
+Knowledge of evaluation metrics for NLP models (BLEU, ROUGE).
+Techniques for deploying LLMs in production environments using APIs and containerization tools (Docker, Kubernetes).
+ï¿½ Knowledge of evaluation metrics for NLP models (BLEU, ROUGE).
+ï¿½ Techniques for deploying LLMs in production environments using APIs and containerization tools (Docker, Kubernetes).
+ï¿½ Professional Outcomes
+Job Readiness
+Enhanced employability in roles related to AI research, machine learning engineering, and NLP development.
+Ability to tackle complex problems in natural language processing and develop innovative solutions
+Research Capabilities - Skills to contribute to the field of AI and NLP through original research. - Understanding of current trends, challenges, and opportunities in LLM development. - Understanding of ethical considerations in AI and NLP, including bias mitigation, privacy, and data governance. - Commitment to developing AI solutions that are fair, transparent, and responsible.
+ï¿½ Job Readiness
+Enhanced employability in roles related to AI research, machine learning engineering, and NLP development.
+Ability to tackle complex problems in natural language processing and develop innovative solutions
+ï¿½ Enhanced employability in roles related to AI research, machine learning engineering, and NLP development.
+ï¿½ Ability to tackle complex problems in natural language processing and develop innovative solutions
+ï¿½ Research Capabilities - Skills to contribute to the field of AI and NLP through original research. - Understanding of current trends, challenges, and opportunities in LLM development. - Understanding of ethical considerations in AI and NLP, including bias mitigation, privacy, and data governance. - Commitment to developing AI solutions that are fair, transparent, and responsible.
+Academic Outcomes
+
+--- Capstone project: ---
+ï¿½ Project Name: DreamLLM
+Objective: Develop a state-of-the-art Large Language Model (LLM) from scratch, focusing on innovation and advanced capabilities.
+Scope: The project aims to create an LLM with the ability to understand, generate, and interpret human language.
+Target Audience: Researchers, developers, and enthusiasts interested in advanced AI and NLP.
+Note: For the sake of time and infrastructure, the LLM will be trained on the limited data. (For the real version of it, you may want to go for huge data which will cost more.)
+ï¿½ Objective: Develop a state-of-the-art Large Language Model (LLM) from scratch, focusing on innovation and advanced capabilities.
+ï¿½ Scope: The project aims to create an LLM with the ability to understand, generate, and interpret human language.
+ï¿½ Target Audience: Researchers, developers, and enthusiasts interested in advanced AI and NLP.
+ï¿½ Note: For the sake of time and infrastructure, the LLM will be trained on the limited data. (For the real version of it, you may want to go for huge data which will cost more.)
+ï¿½ Technical Requirements
+Programming Language: Python (version 3.11)  Deep Learning Frameworks:PyTorch
+Software Tools:
+Jupyter Notebook
+Git for version control
+Docker for containerization (optional, depending on the participants)
+Kubernetes for deployment (optional, depending on scalability needs)
+Libraries and Tools:
+Numpy, Pandas (for data manipulation)
+NLTK or SpaCy (for text preprocessing)
+Matplotlib, Seaborn (for data visualization)
+Hardware Requirements:
+Own infrastructure
+High-performance GPU(s)
+Sufficient storage for large datasets
+Adequate RAM (minimum 32 GB)???????
+Google Colab with TPU or GPU support
+Runpod
+Functional Requirements
+Model Architecture:
+Transformer-based architecture with advanced attention mechanisms
+Support for different variants (e.g., GPT, BERT, T5)
+Pre-training and fine-tuning capabilities
+Data Handling:
+Data preprocessing pipeline (tokenization, embedding)
+Large dataset support (e.g., Wikipedia, Common Crawl)
+Training Process:
+Distributed training for scalability
+Hyperparameter tuning (learning rate, batch size, etc.)
+Evaluation Metrics:
+Language accuracy metrics (BLEU, ROUGE)
+Performance benchmarks (e.g., GLUE tasks)
+Inference and Deployment:
+API-based deployment (RESTful or gRPC)
+Real-time inference capabilities
+User Interface:
+Web-based interface for interacting with the model (optional)
+ï¿½ Programming Language: Python (version 3.11)  Deep Learning Frameworks:PyTorch
+ï¿½ Software Tools:
+Jupyter Notebook
+Git for version control
+Docker for containerization (optional, depending on the participants)
+Kubernetes for deployment (optional, depending on scalability needs)
+ï¿½ Jupyter Notebook
+ï¿½ Git for version control
+ï¿½ Docker for containerization (optional, depending on the participants)
+ï¿½ Kubernetes for deployment (optional, depending on scalability needs)
+ï¿½ Libraries and Tools:
+Numpy, Pandas (for data manipulation)
+NLTK or SpaCy (for text preprocessing)
+Matplotlib, Seaborn (for data visualization)
+ï¿½ Numpy, Pandas (for data manipulation)
+ï¿½ NLTK or SpaCy (for text preprocessing)
+ï¿½ Matplotlib, Seaborn (for data visualization)
+ï¿½ Hardware Requirements:
+Own infrastructure
+High-performance GPU(s)
+Sufficient storage for large datasets
+Adequate RAM (minimum 32 GB)???????
+Google Colab with TPU or GPU support
+Runpod
+ï¿½ Own infrastructure
+High-performance GPU(s)
+Sufficient storage for large datasets
+Adequate RAM (minimum 32 GB)???????
+ï¿½ High-performance GPU(s)
+ï¿½ Sufficient storage for large datasets
+ï¿½ Adequate RAM (minimum 32 GB)???????
+ï¿½ Google Colab with TPU or GPU support
+ï¿½ Runpod
+ï¿½ Functional Requirements
+Model Architecture:
+Transformer-based architecture with advanced attention mechanisms
+Support for different variants (e.g., GPT, BERT, T5)
+Pre-training and fine-tuning capabilities
+Data Handling:
+Data preprocessing pipeline (tokenization, embedding)
+Large dataset support (e.g., Wikipedia, Common Crawl)
+Training Process:
+Distributed training for scalability
+Hyperparameter tuning (learning rate, batch size, etc.)
+Evaluation Metrics:
+Language accuracy metrics (BLEU, ROUGE)
+Performance benchmarks (e.g., GLUE tasks)
+Inference and Deployment:
+API-based deployment (RESTful or gRPC)
+Real-time inference capabilities
+User Interface:
+Web-based interface for interacting with the model (optional)
+ï¿½ Model Architecture:
+Transformer-based architecture with advanced attention mechanisms
+Support for different variants (e.g., GPT, BERT, T5)
+Pre-training and fine-tuning capabilities
+ï¿½ Transformer-based architecture with advanced attention mechanisms
+ï¿½ Support for different variants (e.g., GPT, BERT, T5)
+ï¿½ Pre-training and fine-tuning capabilities
+ï¿½ Data Handling:
+Data preprocessing pipeline (tokenization, embedding)
+Large dataset support (e.g., Wikipedia, Common Crawl)
+ï¿½ Data preprocessing pipeline (tokenization, embedding)
+ï¿½ Large dataset support (e.g., Wikipedia, Common Crawl)
+ï¿½ Training Process:
+Distributed training for scalability
+Hyperparameter tuning (learning rate, batch size, etc.)
+ï¿½ Distributed training for scalability
+ï¿½ Hyperparameter tuning (learning rate, batch size, etc.)
+ï¿½ Evaluation Metrics:
+Language accuracy metrics (BLEU, ROUGE)
+Performance benchmarks (e.g., GLUE tasks)
+ï¿½ Language accuracy metrics (BLEU, ROUGE)
+ï¿½ Performance benchmarks (e.g., GLUE tasks)
+ï¿½ Inference and Deployment:
+API-based deployment (RESTful or gRPC)
+Real-time inference capabilities
+ï¿½ API-based deployment (RESTful or gRPC)
+ï¿½ Real-time inference capabilities
+ï¿½ User Interface:
+Web-based interface for interacting with the model (optional)
+ï¿½ Web-based interface for interacting with the model (optional)
+Project Overview
+
+--- Video recording will be available till 05 June 2026 on portal ---
+
+--- Dream LLM ï¿½ Course Overview ---
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'DreamLLM-O-01', '05-Jan-2026', '09-Feb-2026', '9:00 PM  To  11:00 PM']
+Schedule : Monday - Thursday
+==================================================
+# Machine Learning 
+ 
+--- Course Highlights ---
+
+--- Target Audience: ---
+ï¿½ Students
+ï¿½ Fresher's
+ï¿½ Working Professionals
+
+--- Syllabus: ---
+ï¿½ Introduction to Machine Learning
+Big picture of machine learning
+Why machine learning is needed?
+Types of machine learning
+Challenges of machine learning
+Creating machine learning pipeling
+End-to-end process
+ï¿½ Big picture of machine learning
+ï¿½ Why machine learning is needed?
+ï¿½ Types of machine learning
+ï¿½ Challenges of machine learning
+ï¿½ Creating machine learning pipeling
+ï¿½ End-to-end process
+ï¿½ Regression 
+Understanding statistical regression
+Performing regression with
+Simple linear regressison
+Multiple linear regression
+Support vector machine
+Evaluating models using RMSE, MSE, MAE etc
+ï¿½ Understanding statistical regression
+ï¿½ Performing regression with
+Simple linear regressison
+Multiple linear regression
+Support vector machine
+ï¿½ Simple linear regressison
+ï¿½ Multiple linear regression
+ï¿½ Support vector machine
+ï¿½ Evaluating models using RMSE, MSE, MAE etc
+ï¿½  Classification
+Understanding need of classification
+Classification vs regression
+Performing classification with
+Logistic regression
+Support vector machine
+Decision trees
+K nearest neighbours
+Evaluating models using AuC and RoC etc
+ï¿½ Understanding need of classification
+ï¿½ Classification vs regression
+ï¿½ Performing classification with
+Logistic regression
+Support vector machine
+Decision trees
+K nearest neighbours
+ï¿½ Logistic regression
+ï¿½ Support vector machine
+ï¿½ Decision trees
+ï¿½ K nearest neighbours
+ï¿½ Evaluating models using AuC and RoC etc
+ï¿½ Ensemble Learning
+What is ensemble learning
+Need of ensemble learning
+Types of ensemble learning
+Bagging
+Random forest
+Boosting
+Gradient boosting
+Xgboost
+Stacking
+ï¿½ What is ensemble learning
+ï¿½ Need of ensemble learning
+ï¿½ Types of ensemble learning
+Bagging
+Random forest
+Boosting
+Gradient boosting
+Xgboost
+Stacking
+ï¿½ Bagging
+Random forest
+ï¿½ Random forest
+ï¿½ Boosting
+Gradient boosting
+Xgboost
+ï¿½ Gradient boosting
+ï¿½ Xgboost
+ï¿½ Stacking
+ï¿½ Clustering
+Why clustering is needed?
+Performing clustering using
+Hierarchical clustering
+K meaning clustering
+ï¿½ Why clustering is needed?
+ï¿½ Performing clustering using
+Hierarchical clustering
+K meaning clustering
+ï¿½ Hierarchical clustering
+ï¿½ K meaning clustering
+ï¿½ Association Rule Mining
+Where association rule mining is needed
+Performing association rule mining using
+Apriori
+ï¿½ Where association rule mining is needed
+ï¿½ Performing association rule mining using
+Apriori
+ï¿½ Apriori
+ï¿½ Dimensionality Reduction
+Introduction to feature extraction
+What is dimensionality reduction?
+Performing dimensionality reduction using
+PCA
+ï¿½ Introduction to feature extraction
+ï¿½ What is dimensionality reduction?
+ï¿½ Performing dimensionality reduction using
+PCA
+ï¿½ PCA
+ï¿½ Introdution to Deep Learning
+What is deep learning?
+Introduction to artificial networking
+Introduction to TensorFlow and Keras
+Introduction MLPs with Keras
+ï¿½ What is deep learning?
+ï¿½ Introduction to artificial networking
+ï¿½ Introduction to TensorFlow and Keras
+ï¿½ Introduction MLPs with Keras
+ï¿½ Convolutional Neural Network
+Deep computer vision using CNN
+Introduction to images and convolutions
+CNN architecture
+Image classification using CNN
+Object detection using CNN
+ï¿½ Deep computer vision using CNN
+ï¿½ Introduction to images and convolutions
+ï¿½ CNN architecture
+ï¿½ Image classification using CNN
+ï¿½ Object detection using CNN
+ï¿½ Recurrent Neural Network
+Introduction to RNN
+Processing sequences using RNN
+Training RNN
+Forecasting time series using TensorFlow
+Naural language processing using RNN
+ï¿½ Introduction to RNN
+ï¿½ Processing sequences using RNN
+ï¿½ Training RNN
+ï¿½ Forecasting time series using TensorFlow
+ï¿½ Naural language processing using RNN
+ï¿½ Representation Learning and GANs
+Introduction to autoencoders
+Stacked autoencoders
+Introduction to GAN
+ï¿½ Introduction to autoencoders
+ï¿½ Stacked autoencoders
+ï¿½ Introduction to GAN
+ï¿½ Reinforcement Learning
+Introduction to reinforcement learning
+Introduction to OpenAI gym
+Q-learning
+Deep Q-Learning
+ï¿½ Introduction to reinforcement learning
+ï¿½ Introduction to OpenAI gym
+ï¿½ Q-learning
+ï¿½ Deep Q-Learning
+ï¿½ Deploying model on cloud (AWS)
+Saving models
+Serving TensorFlow model
+ï¿½ Saving models
+ï¿½ Serving TensorFlow model
+
+--- Pre-requisites: ---
+ï¿½ Python fundamentals
+Collections
+Functions
+Classes
+Decorators
+Packages
+Numpy
+Pandas
+Matplotlib
+ï¿½ Collections
+ï¿½ Functions
+ï¿½ Classes
+ï¿½ Decorators
+ï¿½ Packages
+Numpy
+Pandas
+Matplotlib
+ï¿½ Numpy
+ï¿½ Pandas
+ï¿½ Matplotlib
+ï¿½ Statistics fundamentals
+ï¿½ Note: Training videos on important topics will be shared for your own practice
+
+--- Outcome: ---
+ï¿½ You will be able to understand when, where and how to use ML
+ï¿½ You will be able to solve problems related to regression, classification, AI etc.
+ï¿½ You will be able to create models which can be used in desktop and mobile applications
+
+--- Important Note: ---
+ï¿½ Course does not cover the following:
+Python Programming Syntax, even though entire ML programming will be done in Python. (Join prerequisite course : python-development)
+Statistics behind ML algorithms, however foundations of descriptive & inferential statistics are covered exclusively (Refer syllabus).
+Web technologies, however serving ML model in the web application is covered.
+ï¿½ Python Programming Syntax, even though entire ML programming will be done in Python. (Join prerequisite course : python-development)
+ï¿½ Statistics behind ML algorithms, however foundations of descriptive & inferential statistics are covered exclusively (Refer syllabus).
+ï¿½ Web technologies, however serving ML model in the web application is covered.
+
+--- Software Setup: ---
+ï¿½ Python 3.x
+ï¿½ IDE: Pycharm
+ï¿½ Packages: numpy, pandas, scikit, pytorch, keras, flask
+
+--- Student Feedback: ---
+The excellent teaching style and excellent understanding of teaching topics. What I like the most about the course is how Amit Sir helps to improve visualization of code using proper diagrams and images. Also, proper sequencing of sample examples helps to revise the topic in the future. Itï¿½s good that sir gives more time on basic topics in the beginning so that the foundation is strong. Your knowledge and leadership provide us with a priceless model for our own careers. I am so happy you are part of my education. I learned to truly care about diversity and inclusion through your classes, and I hope now spread that message in a passionate but thoughtful way. Youï¿½re awesome!
+Amazing skill of teaching and a very well structured course for people to start to learn to machine learning. The assignments are very good for understanding the practical side of machine learning. To all those thinking of getting in ML, this is a must-have course. Kindly continue these online sessions post COVID-19 pandemic. It's really helpful for those who cannot come to the institute due to timing issues /working out of Pune etc. but willing to learn from you all.
+Thank You.
+Kudos to Sunbeam and Amit Sir again, for conducting Machine Learning with Python course in such a great manner. Amit Sir teaching as always is very precise and he goes out of this schedule to answer and cover, each and every doubt of the students and the topic in the syllabus. The course was also extended by a week, so as to cover all the topics in a meticulous manner.
+Thank you Amit Sir and Sunbeam once again :)
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'ML-O-07', '26-Oct-2023', '28-Nov-2023', '07:30 AM  To  9:30 AM']
+Schedule : Weekdays - (Mon -Fri)
+==================================================
+# Mastering GenAI 
+ 
+--- Course Introduction ---
+Join Amit Kulkarni, an industry expert and certified AI specialist, as he walks you through the Mastering GenAI course at Sunbeam Pune. This program is designed to help you understand, build, and innovate with AI-powered solutions.
+
+--- Syllabus: ---
+ï¿½ Overview of Statistics
+Definition and importance of statistics
+Types of statistics: descriptive and inferential
+Role of statistics in data science and machine learning
+Basic statistical terminology (population, sample, parameter, statistic)
+ï¿½ Definition and importance of statistics
+ï¿½ Types of statistics: descriptive and inferential
+ï¿½ Role of statistics in data science and machine learning
+ï¿½ Basic statistical terminology (population, sample, parameter, statistic)
+ï¿½ Sampling
+Sampling methods
+sampling distributions
+Central Limit Theorem
+ï¿½ Sampling methods
+ï¿½ sampling distributions
+ï¿½ Central Limit Theorem
+ï¿½ Descriptive Statistics
+Measures of central tendency (mean, median, mode)
+measures of variability (range, variance, standard deviation)
+skewness and kurtosis
+ï¿½ Measures of central tendency (mean, median, mode)
+ï¿½ measures of variability (range, variance, standard deviation)
+ï¿½ skewness and kurtosis
+ï¿½ Probability:
+Basic concepts of probability, conditional probability
+Bayes' theorem.
+Random variables and probability distributions
+ï¿½ Basic concepts of probability, conditional probability
+ï¿½ Bayes' theorem.
+ï¿½ Random variables and probability distributions
+ï¿½ Distributions:
+Normal distribution
+Binomial distribution
+Poisson distribution
+Uniform distribution
+ï¿½ Normal distribution
+ï¿½ Binomial distribution
+ï¿½ Poisson distribution
+ï¿½ Uniform distribution
+ï¿½ Hypothesis Testing:
+Null and alternative hypotheses
+Type I and Type II errors
+P-values
+Confidence intervals
+ï¿½ Null and alternative hypotheses
+ï¿½ Type I and Type II errors
+ï¿½ P-values
+ï¿½ Confidence intervals
+ï¿½ Correlation Analysis:
+Pearson correlation
+Spearman's rank correlation
+ï¿½ Pearson correlation
+ï¿½ Spearman's rank correlation
+ï¿½ Time Series Analysis:
+Trend analysis
+Seasonality
+Moving averages
+ARMA models
+ARIMA models
+ï¿½ Trend analysis
+ï¿½ Seasonality
+ï¿½ Moving averages
+ï¿½ ARMA models
+ï¿½ ARIMA models
+ï¿½ Data Visualization:
+Importance of data visualization
+Principles of effective data visualization
+Common visualization techniques:
+  Histograms
+  Box plots
+  Scatter plots
+  Heatmaps
+  Bar charts
+ï¿½ Importance of data visualization
+ï¿½ Principles of effective data visualization
+ï¿½ Common visualization techniques:
+  Histograms
+  Box plots
+  Scatter plots
+  Heatmaps
+  Bar charts
+ï¿½   Histograms
+ï¿½   Box plots
+ï¿½   Scatter plots
+ï¿½   Heatmaps
+ï¿½   Bar charts
+ï¿½ Data Preprocessing
+Data cleaning and handling missing values
+Data transformation (normalization, standardization)
+Feature engineering and selection
+Encoding categorical variables
+Handling imbalanced datasets
+Data splitting (training, validation, test sets)
+Data augmentation techniques
+Outlier detection and handling
+ï¿½ Data cleaning and handling missing values
+ï¿½ Data transformation (normalization, standardization)
+ï¿½ Feature engineering and selection
+ï¿½ Encoding categorical variables
+ï¿½ Handling imbalanced datasets
+ï¿½ Data splitting (training, validation, test sets)
+ï¿½ Data augmentation techniques
+ï¿½ Outlier detection and handling
+ï¿½ Introduction to Machine Learning
+Overview of machine learning
+Types of machine learning:
+supervised learning
+unsupervised learning
+reinforcement learning
+semi-supervised learning
+Applications of machine learning
+Challenges and limitations of machine learning
+ï¿½ Overview of machine learning
+ï¿½ Types of machine learning:
+supervised learning
+unsupervised learning
+reinforcement learning
+semi-supervised learning
+ï¿½ supervised learning
+ï¿½ unsupervised learning
+ï¿½ reinforcement learning
+ï¿½ semi-supervised learning
+ï¿½ Applications of machine learning
+ï¿½ Challenges and limitations of machine learning
+ï¿½ Regression Analysis
+Overview of regression analysis
+Algorithms for regression:
+ Linear regression
+ Ridge regression
+ Lasso regression
+Assumptions of regression analysis
+Model evaluation metrics (R-squared, adjusted R-squared, RMSE, MAE)
+Model interpretation and communication of results
+Applications of regression analysis
+ï¿½ Overview of regression analysis
+ï¿½ Algorithms for regression:
+ Linear regression
+ Ridge regression
+ Lasso regression
+ï¿½  Linear regression
+ï¿½  Ridge regression
+ï¿½  Lasso regression
+ï¿½ Assumptions of regression analysis
+ï¿½ Model evaluation metrics (R-squared, adjusted R-squared, RMSE, MAE)
+ï¿½ Model interpretation and communication of results
+ï¿½ Applications of regression analysis
+ï¿½ Classification
+Overview of classification
+Types of classification
+Evaluation metrics for classification (Confusion matrix, accuracy, precision, recall, F1-score, ROC-AUC)
+Algorithms for classification:
+Decision trees
+k-nearest neighbors (k-NN)
+Naive Bayes
+Ensemble methods (Bagging, Boosting, Stacking)
+Hyperparameter tuning and model selection
+Cross-validation techniques
+Applications of classification
+ï¿½ Overview of classification
+ï¿½ Types of classification
+ï¿½ Evaluation metrics for classification (Confusion matrix, accuracy, precision, recall, F1-score, ROC-AUC)
+ï¿½ Algorithms for classification:
+Decision trees
+k-nearest neighbors (k-NN)
+Naive Bayes
+ï¿½ Decision trees
+ï¿½ k-nearest neighbors (k-NN)
+ï¿½ Naive Bayes
+ï¿½ Ensemble methods (Bagging, Boosting, Stacking)
+ï¿½ Hyperparameter tuning and model selection
+ï¿½ Cross-validation techniques
+ï¿½ Applications of classification
+ï¿½ Clustering
+Overview of clustering
+Types of clustering:
+K-means clustering
+Hierarchical clustering
+Evaluation metrics for clustering (Silhouette score)
+ï¿½ Overview of clustering
+ï¿½ Types of clustering:
+K-means clustering
+Hierarchical clustering
+ï¿½ K-means clustering
+ï¿½ Hierarchical clustering
+ï¿½ Evaluation metrics for clustering (Silhouette score)
+ï¿½ Dimensionality Reduction
+Overview of dimensionality reduction
+Importance of dimensionality reduction
+Techniques for dimensionality reduction:
+ Principal Component Analysis (PCA)
+ï¿½ Overview of dimensionality reduction
+ï¿½ Importance of dimensionality reduction
+ï¿½ Techniques for dimensionality reduction:
+ Principal Component Analysis (PCA)
+ï¿½  Principal Component Analysis (PCA)
+ï¿½ Introduction to Deep Learning
+Overview of deep learning
+Differences between traditional machine learning and deep learning
+Applications of deep learning in various domains
+Challenges and limitations of deep learning
+Overview of generative AI
+Applications of generative AI in various domains
+Challenges and limitations of generative AI
+ï¿½ Overview of deep learning
+ï¿½ Differences between traditional machine learning and deep learning
+ï¿½ Applications of deep learning in various domains
+ï¿½ Challenges and limitations of deep learning
+ï¿½ Overview of generative AI
+ï¿½ Applications of generative AI in various domains
+ï¿½ Challenges and limitations of generative AI
+ï¿½ Deep Learning Frameworks
+Overview of popular deep learning frameworks (TensorFlow, PyTorch, Keras)
+Overview of generative AI frameworks (Huggingface, Langchain)
+Setting up the environment
+ï¿½ Overview of popular deep learning frameworks (TensorFlow, PyTorch, Keras)
+ï¿½ Overview of generative AI frameworks (Huggingface, Langchain)
+ï¿½ Setting up the environment
+ï¿½ Artificial Neural Networks (ANNs)
+Feedforward neural networks
+what is a perceptron
+Multi-layer perceptrons (MLPs)
+Activation functions (ReLU, sigmoid, tanh)
+Loss functions (mean squared error, cross-entropy)
+Regression and classification using ANNs
+Model evaluation metrics (accuracy, precision, recall, F1-score)
+Model interpretability
+Applications of ANNs in real-world scenarios
+Hands-on: Build and train ANN model for regression and classification tasks
+ï¿½ Feedforward neural networks
+ï¿½ what is a perceptron
+ï¿½ Multi-layer perceptrons (MLPs)
+ï¿½ Activation functions (ReLU, sigmoid, tanh)
+ï¿½ Loss functions (mean squared error, cross-entropy)
+ï¿½ Regression and classification using ANNs
+ï¿½ Model evaluation metrics (accuracy, precision, recall, F1-score)
+ï¿½ Model interpretability
+ï¿½ Applications of ANNs in real-world scenarios
+ï¿½ Hands-on: Build and train ANN model for regression and classification tasks
+ï¿½ Convolutional Neural Networks (CNNs)
+Overview of CNNs and their architecture
+Convolutional layers and filters
+Pooling layers (max pooling, average pooling)
+Flattening and fully connected layers
+Applications of CNNs in image processing and computer vision
+Hands-on: Build and train a CNN for image classification
+ï¿½ Overview of CNNs and their architecture
+ï¿½ Convolutional layers and filters
+ï¿½ Pooling layers (max pooling, average pooling)
+ï¿½ Flattening and fully connected layers
+ï¿½ Applications of CNNs in image processing and computer vision
+ï¿½ Hands-on: Build and train a CNN for image classification
+ï¿½ Recurrent Neural Networks (RNNs)
+Overview of RNNs and their architecture
+ANN vs CNN vs RNN
+Long Short-Term Memory (LSTM) networks
+Gated Recurrent Units (GRUs)
+Applications of RNNs in natural language processing and time series analysis
+Hands-on: Build and train an RNN for text classification or time series prediction
+ï¿½ Overview of RNNs and their architecture
+ï¿½ ANN vs CNN vs RNN
+ï¿½ Long Short-Term Memory (LSTM) networks
+ï¿½ Gated Recurrent Units (GRUs)
+ï¿½ Applications of RNNs in natural language processing and time series analysis
+ï¿½ Hands-on: Build and train an RNN for text classification or time series prediction
+ï¿½ Generative Adversarial Networks (GANs)
+Overview of GANs and their architecture
+Generator and discriminator networks
+Training GANs and challenges
+Applications of GANs in image generation and data augmentation
+Variants of GANs (DCGAN, CycleGAN, StyleGAN)
+Hands-on: Build and train a GAN for image generation
+ï¿½ Overview of GANs and their architecture
+ï¿½ Generator and discriminator networks
+ï¿½ Training GANs and challenges
+ï¿½ Applications of GANs in image generation and data augmentation
+ï¿½ Variants of GANs (DCGAN, CycleGAN, StyleGAN)
+ï¿½ Hands-on: Build and train a GAN for image generation
+ï¿½ Transfer Learning
+Overview of transfer learning
+Fine-tuning pre-trained models
+Applications of transfer learning in various domains
+Hands-on: Fine-tune a pre-trained model for a specific task
+ï¿½ Overview of transfer learning
+ï¿½ Fine-tuning pre-trained models
+ï¿½ Applications of transfer learning in various domains
+ï¿½ Hands-on: Fine-tune a pre-trained model for a specific task
+ï¿½ Natural Language Processing (NLP)
+Overview of NLP and its applications
+Text preprocessing techniques (tokenization, stemming, lemmatization)
+Word embeddings (Word2Vec, GloVe, FastText)
+Sequence-to-sequence models
+Attention mechanisms in NLP
+Named Entity Recognition (NER)
+Sentiment analysis
+Fine-tuning pre-trained models for NLP tasks
+Hands-on: Build and train an NLP model for text classification or sentiment analysis
+ï¿½ Overview of NLP and its applications
+ï¿½ Text preprocessing techniques (tokenization, stemming, lemmatization)
+ï¿½ Word embeddings (Word2Vec, GloVe, FastText)
+ï¿½ Sequence-to-sequence models
+ï¿½ Attention mechanisms in NLP
+ï¿½ Named Entity Recognition (NER)
+ï¿½ Sentiment analysis
+ï¿½ Fine-tuning pre-trained models for NLP tasks
+ï¿½ Hands-on: Build and train an NLP model for text classification or sentiment analysis
+ï¿½ Large Language Models (LLMs)
+Overview of LLMs and their architecture
+Transformer architecture
+Attention mechanisms
+Pre-training and fine-tuning LLMs
+Applications of LLMs in natural language processing
+Hands-on: Fine-tune a pre-trained LLM for text generation or classification
+ï¿½ Overview of LLMs and their architecture
+ï¿½ Transformer architecture
+ï¿½ Attention mechanisms
+ï¿½ Pre-training and fine-tuning LLMs
+ï¿½ Applications of LLMs in natural language processing
+ï¿½ Hands-on: Fine-tune a pre-trained LLM for text generation or classification
+ï¿½ Retrieval-Augmented Generation (RAG)
+Overview of RAG
+How RAG works
+Applications of RAG in natural language processing
+Challenges and limitations of RAG
+Future directions of RAG
+Hands-on: Build a RAG model for a specific task (e.g., chat with PDF, chat with CSV, chat with text)
+Evaluation metrics for RAG models
+Hands-on: Evaluate the performance of a RAG model
+ï¿½ Overview of RAG
+ï¿½ How RAG works
+ï¿½ Applications of RAG in natural language processing
+ï¿½ Challenges and limitations of RAG
+ï¿½ Future directions of RAG
+ï¿½ Hands-on: Build a RAG model for a specific task (e.g., chat with PDF, chat with CSV, chat with text)
+ï¿½ Evaluation metrics for RAG models
+ï¿½ Hands-on: Evaluate the performance of a RAG model
+ï¿½ Agentic RAG
+Overview of agentic RAG
+How agentic RAG works
+Applications of agentic RAG in natural language processing
+Challenges and limitations of agentic RAG
+Future directions of agentic RAG
+Hands-on: Build an agentic RAG model for a specific task
+ï¿½ Overview of agentic RAG
+ï¿½ How agentic RAG works
+ï¿½ Applications of agentic RAG in natural language processing
+ï¿½ Challenges and limitations of agentic RAG
+ï¿½ Future directions of agentic RAG
+ï¿½ Hands-on: Build an agentic RAG model for a specific task
+ï¿½ Fine tuning LLMs
+Overview of fine-tuning LLMs
+How to fine-tune LLMs
+Applications of fine-tuning LLMs in natural language processing
+Challenges and limitations of fine-tuning LLMs
+Future directions of fine-tuning LLMs
+Hands-on: Fine-tune an LLM for a specific task
+ 
+ï¿½ Overview of fine-tuning LLMs
+ï¿½ How to fine-tune LLMs
+ï¿½ Applications of fine-tuning LLMs in natural language processing
+ï¿½ Challenges and limitations of fine-tuning LLMs
+ï¿½ Future directions of fine-tuning LLMs
+ï¿½ Hands-on: Fine-tune an LLM for a specific task
+ 
+Mastering AI Basics
+Mastering-AI-Advance
+
+--- Prerequisites: ---
+ï¿½ Beginners with basic python knowledge
+
+--- Student Feedback: ---
+ï¿½ Amit Kulkarni Sir is truly the best in this field. He explains the basics of technology, which is rare, and makes difficult concepts easy to understand. His syllabus is market-oriented, covering the latest trends.
+ï¿½ Amruta Deole, Senior Software Developer
+ 
+ï¿½ The hands-on projects, prompt engineering techniques, and deployment strategies were especially valuable. A great choice for both freshers and professionals aiming to upskill in Gen AI.
+ï¿½ Rahul Kulkarni, Data Analyst & ML/DL Developer
+ 
+ï¿½ Amit Sir answered thousands of questions with a smile. His passion for teaching and deep expertise inspired me. The sessions were technically sound and full of real-world insights.
+ï¿½ Sanket Gawali, Solution Developer
+ 
+ï¿½ The course provided a strong foundation, progressing seamlessly from basics to advanced topics like RAG and LLMs. The balance of theory and practice was perfect.
+ï¿½ Shivani Bhinge, Associate Data Science Engineer
+ 
+ï¿½ This was a zero-to-hero Generative AI course. I can now make an impact in my work using AI. Amit Sirï¿½s humility and support even after the course are unparalleled.
+ï¿½ Chaitanya Takalikar, Software Engineer
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'AI-O-002(Combo A+B)', '14-Jul-2025', '03-Sep-2025', '9:00 PM  To  11:00 PM']
+Row: ['2', 'Mastering-AI-Basics-O-01(A)', '14-Jul-2025', '06-Aug-2025', '9:00 PM  To  11:00 PM']
+Row: ['3', 'Mastering-AI-ADV-O-01(B)', '07-Aug-2025', '03-Sep-2025', '9:00 PM  To  11:00 PM']
+Schedule : Mon - Thu
+==================================================
+# Mastering MCQs 
+ 
+--- Target Audience: ---
+ï¿½ Students
+ï¿½ Fresher's
+
+--- Course Contents: ---
+ï¿½ Aptitude, Reasoning, English
+ï¿½ Computer Fundamentals & Concepts of Programming
+ï¿½ C Programming, C++
+ï¿½ Data Structure, Operating Systems
+ï¿½ Data Communication Networking
+ï¿½ Big Data, Al
+ï¿½ Computer Architecture, Digital Electronics, and Microprocessors
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'Mastering MCQs-O-03 For C-CAT & MNC Interviews', '11-Dec-2025', '08-Jan-2026', '11:00 AM  To  12:30 PM']
+Schedule : Mon-Fri
+==================================================
+# MERN (FULL-STACK) DEVELOPMENT 
+ 
+--- Syllabus ---
+ï¿½ Introduction
+what is node
+advantages and limitations
+ï¿½ what is node
+ï¿½ advantages and limitations
+ï¿½ Environment setup
+install node
+create a new project
+configure project properties
+debugging node application
+ï¿½ install node
+ï¿½ create a new project
+ï¿½ configure project properties
+ï¿½ debugging node application
+ï¿½ Basics
+introduction to npm
+introduction to package.json
+importing npm modules
+command line arguments
+node async vs sync
+threading model
+ï¿½ introduction to npm
+ï¿½ introduction to package.json
+ï¿½ importing npm modules
+ï¿½ command line arguments
+ï¿½ node async vs sync
+ï¿½ threading model
+ï¿½ microservices
+introduction to microservices
+developing microservices using js
+configuration
+deployment
+ï¿½ introduction to microservices
+ï¿½ developing microservices using js
+ï¿½ configuration
+ï¿½ deployment
+ï¿½ Http
+creating web server
+calling REST apis
+ï¿½ creating web server
+ï¿½ calling REST apis
+ï¿½ Express
+introduction to express
+create new project
+express routes and router
+middleware
+connecting to database
+adding authentication
+ï¿½ introduction to express
+ï¿½ create new project
+ï¿½ express routes and router
+ï¿½ middleware
+ï¿½ connecting to database
+ï¿½ adding authentication
+ï¿½ Node modules
+file system
+buffer
+express
+crypto-js
+multer
+mysql2
+postgres
+moment
+passport
+morgan
+ï¿½ file system
+ï¿½ buffer
+ï¿½ express
+ï¿½ crypto-js
+ï¿½ multer
+ï¿½ mysql2
+ï¿½ postgres
+ï¿½ moment
+ï¿½ passport
+ï¿½ morgan
+ï¿½ Setting up environment
+installing nodejs
+installing and configuring babel
+installing and configuring webpack
+ï¿½ installing nodejs
+ï¿½ installing and configuring babel
+ï¿½ installing and configuring webpack
+ï¿½ Introduction to SPA
+what is single page architecture?
+SPA architecture
+Pros and Cons
+other SPA frameworks
+ï¿½ what is single page architecture?
+ï¿½ SPA architecture
+ï¿½ Pros and Cons
+ï¿½ other SPA frameworks
+ï¿½ React fundamentals
+introduction to components
+component oriented architecture
+what components ?
+environment setup for react and react native
+build workflow
+ï¿½ introduction to components
+ï¿½ component oriented architecture
+ï¿½ what components ?
+ï¿½ environment setup for react and react native
+ï¿½ build workflow
+ï¿½ React basics
+hello world react app
+creating functional component
+creating dynamic output
+component lifecycle
+debugging react application
+working with props
+styling react component
+ï¿½ hello world react app
+ï¿½ creating functional component
+ï¿½ creating dynamic output
+ï¿½ component lifecycle
+ï¿½ debugging react application
+ï¿½ working with props
+ï¿½ styling react component
+ï¿½ Introduction to state management
+rules of state management
+initializing state through constructors
+updating state properties
+app lifecycle
+handling errors
+ï¿½ rules of state management
+ï¿½ initializing state through constructors
+ï¿½ updating state properties
+ï¿½ app lifecycle
+ï¿½ handling errors
+ï¿½ Introduction to Redux
+why redux?
+pros and cons
+redux architecture
+actions
+store
+reducers
+ï¿½ why redux?
+ï¿½ pros and cons
+ï¿½ redux architecture
+ï¿½ actions
+ï¿½ store
+ï¿½ reducers
+ï¿½ Advanced Redux concepts and integration
+connecting react to redux
+mapStateToProps
+mapDispatchToProps
+async in redux
+async status and error handling
+ï¿½ connecting react to redux
+ï¿½ mapStateToProps
+ï¿½ mapDispatchToProps
+ï¿½ async in redux
+ï¿½ async status and error handling
+ï¿½ Basic and advanced Routing
+introduction to routing
+root level routing
+child level routing
+ï¿½ introduction to routing
+ï¿½ root level routing
+ï¿½ child level routing
+ï¿½ React hooks
+what is hook?
+rules of hook
+using state hook
+using effect hook
+building custom hook
+ï¿½ what is hook?
+ï¿½ rules of hook
+ï¿½ using state hook
+ï¿½ using effect hook
+ï¿½ building custom hook
+ï¿½ Handling online payment
+connecting react with online payment gateway
+ï¿½ connecting react with online payment gateway
+ï¿½ Testing React components
+testing overview
+setting up environment
+testing react components
+ 
+ï¿½ testing overview
+ï¿½ setting up environment
+ï¿½ testing react components
+ 
+NODE
+React
+
+--- Pre-requisites: ---
+ï¿½ Object Oriented Programming Concepts
+ï¿½ Any RDBMS (SQL)
+ï¿½ Web Programming Fundamentals (HTML, CSS, JS)
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'MERN-O-03', '02-Jun-2025', '03-Jul-2025', '09:00 PM  To  11:00 PM']
+Schedule : Mon-Thu
+==================================================
+# MLOps & LLMOps 
+ 
+--- Prerequisites: ---
+ï¿½ Python Libraries: numpy, pandas, matplotlib, sci-kit learn, pytorch
+ï¿½ SCM: git
+ï¿½ CI/CD Pipeline:
+Jenkins and GitHub Actions: scripted pipeline configuration
+ï¿½ Jenkins and GitHub Actions: scripted pipeline configuration
+ï¿½ Containerization:
+Docker: installation and configuration, building custom images, containers, volumes, networks, port forwarding
+ï¿½ Docker: installation and configuration, building custom images, containers, volumes, networks, port forwarding
+ï¿½ Container Orchestration:
+Kubernetes: cluster management, namespaces, pods, policies, services, configmap, secrets, networking, storage, autoscaling
+ï¿½ Kubernetes: cluster management, namespaces, pods, policies, services, configmap, secrets, networking, storage, autoscaling
+ï¿½ Cloud:
+AWS: EC2, ELB, Autoscaling, VPC, S3, Lambda, DevOps on AWS
+ï¿½ AWS: EC2, ELB, Autoscaling, VPC, S3, Lambda, DevOps on AWS
+ï¿½ Infrastructure as a code:
+Terraform: AWS infrastructure management
+ï¿½ Terraform: AWS infrastructure management
+ï¿½ Model building using scikit-learn and pytorch or tensorflow
+
+--- Syllabus: ---
+ï¿½ Experiment Tracking: MLFlow, Weights and Biases
+ï¿½ Data and model versioning: dvc and LakeFS
+ï¿½ Containerization of models: Docker
+ï¿½ MLOps Pipeline: KubeFlow and MLFlow
+ï¿½ Model serving: KServe, Tensorflow Serving
+ï¿½ CI/CD for MLOps: Jenkins and GitHub Actions
+ï¿½ Observability: ELK
+ï¿½ Monitoring: Prometheus and Grafana
+
+--- VIdeo recording will be available till 05 March 2026 on SunBeam Portal ---
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'MLOps and LLMOps (O-01)', '24-Nov-2025', '05-Dec-2025', '9:00 PM  To  11:00 PM']
+Schedule : Monday to Friday (9pm to 11pm)
+==================================================
+# Python Development 
+ 
+--- Prerequisite: ---
+ï¿½ Any programming language
+
+--- Highlights: ---
+ï¿½ Live hands-on approach
+ï¿½ Builds foundation for Machine Learning/Data science
+
+--- Syllabus: ---
+ï¿½ Python Fundamentals and Environment Setup
+Introduction to Python
+Applications of Python in Machine Learning, Backend, Automation
+Installing Python on Windows, macOS, Linux
+Python interpreters and virtual environments
+Running Python programs
+Script mode vs interactive mode
+Basic coding standards and best practices
+ï¿½ Introduction to Python
+ï¿½ Applications of Python in Machine Learning, Backend, Automation
+ï¿½ Installing Python on Windows, macOS, Linux
+ï¿½ Python interpreters and virtual environments
+ï¿½ Running Python programs
+ï¿½ Script mode vs interactive mode
+ï¿½ Basic coding standards and best practices
+ï¿½ Core Python Syntax and Data Types
+Variables and naming conventions
+Built-in data types: int, float, complex, bool, string
+Type conversion and type checking
+Input and output operations
+Understanding Python memory basics
+ï¿½ Variables and naming conventions
+ï¿½ Built-in data types: int, float, complex, bool, string
+ï¿½ Type conversion and type checking
+ï¿½ Input and output operations
+ï¿½ Understanding Python memory basics
+ï¿½ Control Flow and Decision Making
+if, elif, else statements
+Nested conditions
+Logical and comparison operators
+Real-world decision-making examples
+Loops and Iterations
+for loop
+while loop
+range function
+break, continue, pass
+Nested loops
+Common looping patterns
+ï¿½ if, elif, else statements
+ï¿½ Nested conditions
+ï¿½ Logical and comparison operators
+ï¿½ Real-world decision-making examples
+ï¿½ Loops and Iterations
+ï¿½ for loop
+ï¿½ while loop
+ï¿½ range function
+ï¿½ break, continue, pass
+ï¿½ Nested loops
+ï¿½ Common looping patterns
+ï¿½ Python Data Structures
+Lists
+Creation, indexing, slicing
+List operations and methods
+List comprehensions
+Tuples
+Tuple creation
+Tuple vs list
+Use cases and immutability
+Sets
+Set creation
+Set operations
+Mathematical set concepts
+Dictionaries
+Key-value pairs
+CRUD operations
+Nested dictionaries
+Handling JSON-like data
+ï¿½ Lists
+Creation, indexing, slicing
+List operations and methods
+List comprehensions
+ï¿½ Creation, indexing, slicing
+ï¿½ List operations and methods
+ï¿½ List comprehensions
+ï¿½ Tuples
+Tuple creation
+Tuple vs list
+Use cases and immutability
+ï¿½ Tuple creation
+ï¿½ Tuple vs list
+ï¿½ Use cases and immutability
+ï¿½ Sets
+Set creation
+Set operations
+Mathematical set concepts
+ï¿½ Set creation
+ï¿½ Set operations
+ï¿½ Mathematical set concepts
+ï¿½ Dictionaries
+Key-value pairs
+CRUD operations
+Nested dictionaries
+Handling JSON-like data
+ï¿½ Key-value pairs
+ï¿½ CRUD operations
+ï¿½ Nested dictionaries
+ï¿½ Handling JSON-like data
+ï¿½ Strings and Text Processing
+String operations
+Common string methods
+String formatting using f-strings
+Text manipulation and cleaning basics
+ï¿½ String operations
+ï¿½ Common string methods
+ï¿½ String formatting using f-strings
+ï¿½ Text manipulation and cleaning basics
+ï¿½ Functions and Modular Programming
+Defining and calling functions
+Function arguments: positional, keyword, default
+args and kwargs
+Return values
+Scope: local and global
+Creating reusable modules
+ï¿½ Defining and calling functions
+ï¿½ Function arguments: positional, keyword, default
+ï¿½ args and kwargs
+ï¿½ Return values
+ï¿½ Scope: local and global
+ï¿½ Creating reusable modules
+ï¿½ Object-Oriented Programming in Python
+OOP concepts and importance
+Classes and objects
+Constructors
+Instance variables and class variables
+Methods
+Encapsulation
+Inheritance
+Polymorphism
+Introduction to magic methods
+Real-world OOP examples
+ï¿½ OOP concepts and importance
+ï¿½ Classes and objects
+ï¿½ Constructors
+ï¿½ Instance variables and class variables
+ï¿½ Methods
+ï¿½ Encapsulation
+ï¿½ Inheritance
+ï¿½ Polymorphism
+ï¿½ Introduction to magic methods
+ï¿½ Real-world OOP examples
+ï¿½ Error Handling and Debugging
+Types of errors in Python
+try, except, else, finally
+Creating custom exceptions
+Debugging techniques
+Writing robust code
+ï¿½ Types of errors in Python
+ï¿½ try, except, else, finally
+ï¿½ Creating custom exceptions
+ï¿½ Debugging techniques
+ï¿½ Writing robust code
+ï¿½ File Handling and Data Input Output
+Reading and writing text files
+Working with CSV files
+Working with JSON files
+File handling best practices
+Introduction to logging
+ï¿½ Reading and writing text files
+ï¿½ Working with CSV files
+ï¿½ Working with JSON files
+ï¿½ File handling best practices
+ï¿½ Introduction to logging
+ï¿½ Working with Dates, Time and Utilities
+Datetime module
+Time module
+Date formatting and parsing
+Timestamps and timers
+ï¿½ Datetime module
+ï¿½ Time module
+ï¿½ Date formatting and parsing
+ï¿½ Timestamps and timers
+ï¿½ Python Standard Library Overview
+os and sys modules
+math and random modules
+collections module
+itertools introduction
+Useful built-in functions
+ï¿½ os and sys modules
+ï¿½ math and random modules
+ï¿½ collections module
+ï¿½ itertools introduction
+ï¿½ Useful built-in functions
+ï¿½ Introduction to Data Handling for Machine Learning
+Importance of data in ML
+Introduction to NumPy: Arrays and vectorized operations
+Introduction to Pandas: DataFrames and Series
+Reading datasets
+Basic data exploration and cleaning
+ï¿½ Importance of data in ML
+ï¿½ Introduction to NumPy: Arrays and vectorized operations
+ï¿½ Introduction to Pandas: DataFrames and Series
+ï¿½ Reading datasets
+ï¿½ Basic data exploration and cleaning
+ï¿½ Python for Backend Development Foundations
+Role of Python in backend systems
+Basics of HTTP and REST APIs
+Introduction to Flask and FastAPI concepts
+Request and response lifecycle
+JSON handling in backend
+Basic database interaction concepts
+ï¿½ Role of Python in backend systems
+ï¿½ Basics of HTTP and REST APIs
+ï¿½ Introduction to Flask and FastAPI concepts
+ï¿½ Request and response lifecycle
+ï¿½ JSON handling in backend
+ï¿½ Basic database interaction concepts
+ï¿½ Database connectivity
+Introduction to MySQL and SQLite
+Database design basics (tables, rows, columns, keys)
+CRUD operations using SQL
+Connecting Python with databases
+Using Python database connectors
+Executing queries from Python
+Handling database transactions
+Error handling in database operations
+ï¿½ Introduction to MySQL and SQLite
+ï¿½ Database design basics (tables, rows, columns, keys)
+ï¿½ CRUD operations using SQL
+ï¿½ Connecting Python with databases
+ï¿½ Using Python database connectors
+ï¿½ Executing queries from Python
+ï¿½ Handling database transactions
+ï¿½ Error handling in database operations
+ï¿½ Mini Project
+Data-oriented mini project for ML foundation
+Backend-oriented mini project using Python logic
+Emphasis on clean code and problem-solving
+ï¿½ Data-oriented mini project for ML foundation
+ï¿½ Backend-oriented mini project using Python logic
+ï¿½ Emphasis on clean code and problem-solving
+
+--- Student Feedback: ---
+The course content was well-structured and covered all the essential topics needed to build a solid foundation in Python programming. What stood out the most for me was the clarity with which the  concepts were explained. Sir went above and beyond by covering additional topics that were incredibly valuable. I now feel much more confident in my Python skills, thanks to this course. 
+I can genuinely say it was one of the most enriching learning experiences Iï¿½ve had. I was referred by a colleague to join SUNBEAM, I wasnï¿½t entirely sure what to expect initially, but from the very first session, it became clear that I was in the hands of an exceptional teacher. Sir has an extraordinary talent for simplifying even the most complex Python concepts, making them easy to grasp for all students. 
+His explanations are consistently clear, and he demonstrates remarkable patience, ensuring that every question is answered thoroughly and that no one is left behind. What truly stood out to me was his practical approach to teaching ï¿½ beyond just theory, he provided real-world examples that made it easy to see how Python could be applied in my professional work. Sir's dedication to his students is truly admirable. 
+I now feel confident in my Python skills and am eager to apply what Iï¿½ve learned in my career. His teaching style, depth of knowledge, and unwavering support are truly exceptional, and I feel very fortunate to have had the opportunity to be taught by him.
+To be honest, Python was my first authentic experience of learning programming language and this
+experience was made memorable by you sir. Older me was saying programming is soo boring, soo complicated, an headache. But sir you totally changed my perspective. Now, I have gained confidence
+that I too can develop applications.
+You just have not only taught us python, You taught insights of python. how python works internally. I never ever trained like this before. You showed the way how to look at concepts insights just not syntax. Its Conceptual + Insights + syntactical Training I got. My words are not enough to express the gratitude but still to get teacher like you needs luck also.
+The quizzes at the end of each module were also a great way to test my knowledge. The Q&A sessions 15-20 mins before and after each lecture added more value to it. The example of  "Potter and Stencils" was amazing to understand the difference between "Java and Pythons class". Similarly the example of (2 or more) parallel projects while teaching the concept of working with "Virtual Environment" was amazing. 
+Request the sunbeam management to please start such courses for Ex-CDAC students which helps the CDAC family to grow and show what the CDAC pupils can do with CDAC gurus showing us the way ahead. It would be needless to praise our CDAC guruï¿½s knowledge. Teaching methodologies as doing classes from US at 4:30 am PST time I always had a smile on my face a kid like zeal to learn what Sir would bring to the table that day and by end of min 2:30 hrs of a lecture he would leave us in awe. I would say CDAC sunbeam is not an institutional at all, it more of a Gurukul where the pupils are lifelong connected to the Gurus here at Sunbeam like Nilesh Sir,(for motivating when I was about to quit CDAC coming from ECE background), Prashant Sir, Vijay Sir, Sameer Sir(had a magical experience when he taught us in 2011 Feb) , Sarang Sir(never thought that Software engineering subject could be fun and also be taught)
+
+--- Recorded videos will be accessible for up to one month from the date of upload. ---
+
+--- Batch schedule ---
+Columns: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row: ['1', 'Python-O-15', '23-Jan-2026', '20-Feb-2026', '8:00 AM  To  10:30 AM']
+Schedule : Mon - Fri
+
+ 
+ # Internship 
+--- OVERVIEW ---
+GET EXPERIENCE BEFORE YOU GRADUATE
+
+It is really difficult to sustain competitive edge of an industry. No matter you are an employer, employee or an entrepreneur.
+
+Technology, innovations and business trends has added diversified change to the organizational process. Individual should acquire proficiency, mainly in technical and develop personal skills to adapt these industry dynamics.
+
+We at Sunbeam are known for providing IT training, solutions, and services. Our training approach contemplate our students to take a wise decision and distinguish Sunbeam as elite institute. Our innovative training methods, use of adequate technology, and emphasis on specific program adds value to success of Sunbeam.
+
+Team at Sunbeam is young, energetic, and committed. Our team can nurture strong technical foundation and build the most progressive career of a candidate in the Industry. Team Sunbeam will challenge and will definitely inspire you. Spend your good time with our team and it will definitely change your life.
+
+
+--- Student Industrial Training & Internship ---
+Row: ['List of Internship Program']
+Row: ['Sr.No.', 'Duration', 'Structure', 'Mode']
+Row: ['1', '1 Month', '1 month of comprehensive training\nConcurrent execution of a mini project', 'Offline mode at Sunbeam campus']
+Row: ['2', '2 months', 'Training sessions for relevant technologies\nExecution of 2 mini projects based on selected technology', 'One mini project to be developed in offline mode at Sunbeam campus.\nOne mini project to be developed in online mode.']
+Row: ['3', '6 months', 'In-depth training program during the entire internship\nOne mini project to be developed and one project to be developed with enhanced features based on specific technology.', 'One mini project to be developed in offline mode at Sunbeam campus.\nOne project to be developed with enhanced features based on specific technology in online mode.']
+List of Internship Program
+Sr.No.
+Duration
+Structure
+Mode
+1
+1 Month
+1 month of comprehensive training
+Concurrent execution of a mini project
+Offline mode at Sunbeam campus
+2
+2 months
+Training sessions for relevant technologies
+Execution of 2 mini projects based on selected technology
+One mini project to be developed in offline mode at Sunbeam campus.
+One mini project to be developed in online mode.
+3
+6 months
+In-depth training program during the entire internship
+One mini project to be developed and one project to be developed with enhanced features based on specific technology.
+One mini project to be developed in offline mode at Sunbeam campus.
+One project to be developed with enhanced features based on specific technology in online mode.
+
+--- Training And Industrial Program Features ---
+• Hands-On Experience - Practical learning through project-based activities aligned with industry standards.
+• Structured Training - Receive comprehensive training sessions tailored to the duration and focus area of the internship.
+• Project Development - Work on mini and elaborative project using conceptual knowledge for real-world scenarios.
+• Mentorship - Guidance from experts throughout the internship period.
+• Evaluation and Feedback - Participate in regular review meetings via Zoom for project evaluation and feedback.
+• Reporting - Project Evaluation Report will be shared with the respective college where candidate is from. In case candidate joins this program directly without any reference of college in such case report will be shared directly to the candidate.
+
+--- Placements ---
+• We help students prepare for the Campus Placement Programme. The PPP is a training module to improve the student’s employability skills.
+
+--- Our Associates ---
+
+--- Available Internship Programs ---
+• Internship program available for Computer Science, Information Technology, and Electronics Students
+Row: ['Technology', 'Aim', 'Prerequisite', 'Learning', 'Location']
+Row: ['Generative AI', 'Create intelligent applications with LLMs.', 'Python, Database', 'Advanced Python, LLM models, Ollama, LangChain, Streamlit, Prompt engineering, HuggingFaces', 'Hinjawadi']
+Row: ['Android Mobile App Development', 'Develop Android Mobile Application', 'Java Programming, Database, JS', 'Android Programming (Java), Express JS server', 'Hinjawadi']
+Row: ['C Programming', 'System application development with GUI', 'Basic C Programming', 'Revision of structs and File IO, System programming, GUI programming in C', 'Hinjawadi & Marketyard']
+Row: ['Java Programming', 'Desktop application development with GUI', 'Basic Java Programming', 'Revision of Collections and File IO, GUI programming in Java', 'Hinjawadi, Marketyard & Karad']
+Row: ['Web Programming', 'Web Application Development', 'HTML, JS, CSS, SQL basics', 'Node JS, REST services using Express, jQuery, Advanced SQL', 'Hinjawadi & Karad']
+Row: ['Python Web Development', 'Python-based Web Application Development', 'Python, HTML, JS, CSS, SQL basics', 'Python Flask/Database connectivity, REST services, jQuery, Advanced SQL', 'Hinjawadi']
+Row: ['Data Science (ML)', 'Exploring & Visualizing data and Machine learning using Python.', 'Python Programming', 'Advanced Python, ML models, Power BI, Flask', 'Hinjawadi']
+Row: ['.NET', 'Web application development using .NET', 'C#', '.NET Web MVC, application development', 'Karad / Hinjawadi']
+Row: ['CYBER SECURITY', 'Build and manage secure IT infrastructure.', 'Networking & Linux Basics', 'Configure essential network services, implement firewall solutions, secure web servers with certificates, deploy intrusion detection systems, and work with virtualized environments', 'Hinjawadi']
+Row: ['ARM Micro-controller', 'Develop ARM Cortex-M firmware with embedded communication protocols and sensor interfacing', 'C Programming, Basic electronics', 'Cortex-M embedded programming', 'Hinjawadi']
+Technology
+Aim
+Prerequisite
+Learning
+Location
+Generative AI
+Create intelligent applications with LLMs.
+Python, Database
+Advanced Python, LLM models, Ollama, LangChain, Streamlit, Prompt engineering, HuggingFaces
+Hinjawadi
+Android Mobile App Development
+Develop Android Mobile Application
+Java Programming, Database, JS
+Android Programming (Java), Express JS server
+Hinjawadi
+C Programming
+System application development with GUI
+Basic C Programming
+Revision of structs and File IO, System programming, GUI programming in C
+Hinjawadi & Marketyard
+Java Programming
+Desktop application development with GUI
+Basic Java Programming
+Revision of Collections and File IO, GUI programming in Java
+Hinjawadi, Marketyard & Karad
+Web Programming
+Web Application Development
+HTML, JS, CSS, SQL basics
+Node JS, REST services using Express, jQuery, Advanced SQL
+Hinjawadi & Karad
+Python Web Development
+Python-based Web Application Development
+Python, HTML, JS, CSS, SQL basics
+Python Flask/Database connectivity, REST services, jQuery, Advanced SQL
+Hinjawadi
+Data Science (ML)
+Exploring & Visualizing data and Machine learning using Python.
+Python Programming
+Advanced Python, ML models, Power BI, Flask
+Hinjawadi
+.NET
+Web application development using .NET
+C#
+.NET Web MVC, application development
+Karad / Hinjawadi
+CYBER SECURITY
+Build and manage secure IT infrastructure.
+Networking & Linux Basics
+Configure essential network services, implement firewall solutions, secure web servers with certificates, deploy intrusion detection systems, and work with virtualized environments
+Hinjawadi
+ARM Micro-controller
+Develop ARM Cortex-M firmware with embedded communication protocols and sensor interfacing
+C Programming, Basic electronics
+Cortex-M embedded programming
+Hinjawadi
+--- SCHEDULE ---
+Sr.No | Batch | Batch Duration | Start Date | End Date | Time | Fees (Rs.) | Download Brochure
+1 | IIT-08-H-A-MERN | 1 Month | 10-Dec-2025 | 05-Jan-2026 | 8:00 AM  To  4:00 PM | 4000/-/- | 
+2 | IIT-08-H-A-Android | 1 Month | 10-Dec-2025 | 05-Jan-2026 | 8:00 AM  To  4:00 PM | 4000/- | 
+3 | IIT-08-H-A-Internet of Things | 1 Month | 10-Dec-2025 | 05-Jan-2026 | 8:00 AM  To  4:00 PM | 4000/- | 
+4 | IIT-08-H-A-ARM Micro-controller | 1 Month | 10-Dec-2025 | 05-Jan-2026 | 8:00 AM  To  4:00 PM | 4000/- | 
+5 | IIT-08-H-A-Generative AI | 1 Month | 10-Dec-2025 | 05-Jan-2026 | 8:00 AM  To  4:00 PM | 4000/- | 
+6 | IIT-08-H-A-Java Programming | 1 Month | 10-Dec-2025 | 05-Jan-2026 | 8:00 AM  To  4:00 PM | 4000/- | 
+7 | IIT-08-H-A-.net | 1 Month | 10-Dec-2025 | 05-Jan-2026 | 8:00 AM  To  4:00 PM | 4000/- | 
+8 | IIT-08-H-A-Web Programming using Python | 1 Month | 10-Dec-2025 | 05-Jan-2026 | 8:00 AM  To  4:00 PM | 4000/- | 
+9 | IIT-08-H-A-Data Science (ML) | 1 Month | 10-Dec-2025 | 05-Jan-2026 | 8:00 AM  To  4:00 PM | 4000/- | 
+10 | IIT-08-H-A-Cyber Security | 1 Month | 10-Dec-2025 | 05-Jan-2026 | 8:00 AM  To  4:00 PM | 4000/- | 

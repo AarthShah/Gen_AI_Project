@@ -1,37 +1,55 @@
 import chromadb 
-content=None
-content_scraping=None
+db1=chromadb.PersistentClient(path="./Uploaded_file")
+content_file=db1.get_or_create_collection("File_Uploaded")
+
+db=chromadb.PersistentClient(path="./Sunbeam_data")
+content_scraping=db.get_or_create_collection("Sunbeam_web_data")
+
 def add_file(ids,vectordb,metadata):
     try:
-        db=chromadb.PersistentClient(path="./Uploaded_file")
-        content=db.get_or_create_collection("File_Uploaded")
-        content.add(ids=ids,embeddings=vectordb,metadatas=metadata)
+        content_file.add(ids=ids,embeddings=vectordb,metadatas=metadata)
         return "file added"
     except Exception:
         return "failed to Add Data"
     
 def add_sunbeam_data(ids,vectordb,metadata):
-    db=chromadb.PersistentClient(path="./Sunbeam_data")
-    content_scraping=db.get_or_create_collection("Sunbeam_web_data")
     content_scraping.add(ids=ids,embeddings=vectordb,metadatas=metadata)
     return "Scrapping Done"
 
-def delete_data(id,options=add_file):
-    try :
-        options.delete(ids=[id])
-        return "deleted successfully"
-    except Exception :
-        return "failed to Detete"
+def delete_data(id,options="file"):
+    if options=="file":
+        try :
+            content_file.delete(ids=[id])
+            return "deleted successfully"
+        except Exception :
+            return "failed to Detete"
+    else:
+        try :
+            content_scraping.delete(ids=[id])
+            return "deleted successfully"
+        except Exception :
+            return "failed to Detete"
 
-def update_data(id,vectordb,metadata,option=add_file):
-    try:
-        delete_data(id,option)
-        option.add(ids=id,embeddings=vectordb,metadatas=metadata)
-        return "Updated Sucessfully.."
-    except Exception :
-        return "Failed to Update.."
+def update_data(id,vectordb,metadata,option="file"):
+    if option=="file":
+        try:
+            delete_data(id,option)
+            content_file.add(ids=id,embeddings=vectordb,metadatas=metadata)
+            return "Updated Sucessfully.."
+        except Exception :
+            return "Failed to Update.."
+    else:
+        try:
+            delete_data(id,option)
+            content_scraping.add(ids=id,embeddings=vectordb,metadatas=metadata)
+            return "Updated Sucessfully.."
+        except Exception :
+            return "Failed to Update.."
 
 
-def get_data_for_Embed_query(Equery,option=add_file):
-    result=option.query(query_embeddings=Equery,n_results=3,)
+def get_data_for_Embed_query(Equery,option="file"):
+    if option=="file":
+        result=content_file.query(query_embeddings=Equery,n_results=3,)
+    else:
+        result=content_scraping.query(query_embeddings=Equery,n_results=3,)
     return result

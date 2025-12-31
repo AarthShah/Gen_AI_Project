@@ -16,11 +16,11 @@ def show_chat_history():
 def chat_screen():
     show_chat_history()
     input=st.chat_input("You: ", key="input_message")
-    uploaded_pdf = st.file_uploader(
-        "Upload PDF",
-        type=["pdf"],
-        key="pdf_file"
-    )
+    # uploaded_pdf = st.file_uploader(
+    #     "Upload PDF",
+    #     type=["pdf"],
+    #     key="pdf_file"
+    # )
     if input:
         st.chat_message("user").write(input)
         response=chat_model(input)
