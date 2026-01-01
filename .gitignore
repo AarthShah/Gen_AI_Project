@@ -6,3 +6,9 @@ venv/
 env/
 
 .env
+
+Sunbeam_data/
+
+Uploaded_files/
+
+*.bin

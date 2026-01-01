@@ -1,11 +1,15 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 import time
 from Add_data_to_file import add_to_file
 
 
 def get_internship_data():
-    driver = webdriver.Chrome()
+    options_chrome=webdriver.ChromeOptions()
+    options_chrome.add_argument("--headless=new")
+    options_chrome.add_argument("--window-size=1920,1080")
+    driver = webdriver.Chrome(options=options_chrome)
     driver.get("https://www.sunbeaminfo.in/internship")
     driver.implicitly_wait(5)
     time.sleep(2) 
@@ -68,7 +72,7 @@ def get_internship_data():
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(2) 
 
-        content += "--- SCHEDULE\n"
+        content += f"--- SCHEDULE for Internship \n"
 
         table_box = driver.find_element(By.CLASS_NAME, "table-responsive")
         

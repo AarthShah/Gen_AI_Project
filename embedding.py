@@ -14,5 +14,10 @@ embedding_model=init_embeddings(
 
 def create_embedding(Data):
     emb=embedding_model.embed_documents(Data)
+    print("Embedding Created...")
     return emb
 
+
+if __name__=="__main__":
+    md=create_embedding("Hello World")
+    print(md)

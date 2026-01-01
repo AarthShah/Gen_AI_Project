@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 import time
-from Add_data_to_file import add_to_file
+from Add_data_to_file import add_to_file_of_courses
 
 def get_courses_link():
     options_chrome=webdriver.ChromeOptions()
@@ -27,10 +27,10 @@ def get_courses_link():
         print(f"{title} : {url}\n")
         dic[title]=url
 
-    content=get_all_courses_data(dic,driver)
-    add_to_file("\n \n # Modular Courses \n")
-    add_to_file(content)
-    return content
+    # content=get_all_courses_data(dic,driver)
+    # add_to_file_of_courses("\n \n # Modular Courses \n")
+    # add_to_file_of_courses(content)
+    # return content
         
 
 def get_all_courses_data(dic,driver):
@@ -110,12 +110,12 @@ def get_coures_data(url,driver,key):
 
     return content
 if __name__ == "__main__":
-    # md=get_courses_link()
-    driver = webdriver.Chrome()
-    #md=get_coures_data("https://www.sunbeaminfo.in/modular-courses/apache-spark-mastery-data-engineering-pyspark",driver,"Apache Spark Mastery - Data Engineering with PySpark")
-    dic={"Apache Spark Mastery - Data Engineering with PySpark": 'https://www.sunbeaminfo.in/modular-courses/apache-spark-mastery-data-engineering-pyspark',
-         "Data Science Mastery - Data Analysis & Visualization with Python": 'https://www.sunbeaminfo.in/modular-courses/data-science-mastery-data-analysis-visualization-python',
-         "Full Stack Web Development Mastery - MERN Stack": 'https://www.sunbeaminfo.in/modular-courses/full-stack-web-development-mastery-mern-stack'}
-    md=get_all_courses_data(dic,driver)  
-    # md=get_coures_data("https://www.sunbeaminfo.in/internship",driver,"Internship")  
+    md=get_courses_link()
+    # driver = webdriver.Chrome()
+    # #md=get_coures_data("https://www.sunbeaminfo.in/modular-courses/apache-spark-mastery-data-engineering-pyspark",driver,"Apache Spark Mastery - Data Engineering with PySpark")
+    # dic={"Apache Spark Mastery - Data Engineering with PySpark": 'https://www.sunbeaminfo.in/modular-courses/apache-spark-mastery-data-engineering-pyspark',
+    #      "Data Science Mastery - Data Analysis & Visualization with Python": 'https://www.sunbeaminfo.in/modular-courses/data-science-mastery-data-analysis-visualization-python',
+    #      "Full Stack Web Development Mastery - MERN Stack": 'https://www.sunbeaminfo.in/modular-courses/full-stack-web-development-mastery-mern-stack'}
+    # md=get_all_courses_data(dic,driver)  
+    # # md=get_coures_data("https://www.sunbeaminfo.in/internship",driver,"Internship")  
     print(md)
